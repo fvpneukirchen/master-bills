@@ -1,0 +1,50 @@
+{
+    "dados":
+    [
+        {
+            "id": 2268783,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268783",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 118,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a permissão do rastreamento do aparelho celular através do IMEI e modelo do aparelho quando houver furto ou roubo."
+        },
+        {
+            "id": 2268784,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268784",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 119,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a identificação de veículos locados pela administração pública."
+        },
+        {
+            "id": 2268785,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268785",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 120,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a obrigatoriedade de indenização e/ou reparação pecuniária por danos materiais, as vítimas de roubo e furto, a serem pagas pelo criminoso condenado."
+        },
+        {
+            "id": 2268786,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268786",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 121,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a prorrogação do auxílio emergencial até 31 de dezembro de 2021."
+        },
+        {
+            "id": 2268787,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268787",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 122,
+            "ano": 2021,
+            "ementa": "Institui o dia 14 de junho como o Dia Nacional dos Laboratórios Clínicos."
+        }
+    ]
+}
