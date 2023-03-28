@@ -1,0 +1,2643 @@
+{
+    "c": [
+        {
+            "s": "CAPADR",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Votação",
+                    "c": 231,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Rejeição de Requerimento",
+                    "c": 260,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Retirada de Requerimento",
+                    "c": 263,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Devolução à CCP",
+                    "c": 1010,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Sem Parecer Apresentado",
+                    "c": 1250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Com Parecer Apresentado",
+                    "c": 1255,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+                }
+            ]
+        },
+        {
+            "s": "CCJC",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Encaminhamento da Votação",
+                    "c": 219,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Discussão (Inicio e Continuacao)",
+                    "c": 220,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Encerramento de Discussão",
+                    "c": 227,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Votação",
+                    "c": 231,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Aprovação da Redação Final",
+                    "c": 239,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Verificação de Votação",
+                    "c": 245,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Rejeição de Requerimento",
+                    "c": 260,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Retirada de Requerimento",
+                    "c": 263,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Notificações",
+                    "c": 1005,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Devolução à CCP",
+                    "c": 1010,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Sem Parecer Apresentado",
+                    "c": 1250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+                }
+            ]
+        },
+        {
+            "s": "CCP",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+            "v": [
+                {
+                    "d": "Encaminhamento",
+                    "c": 180,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186"
+                },
+                {
+                    "d": "Cancelamento de Parecer",
+                    "c": 331,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186"
+                },
+                {
+                    "d": "Publicação de Proposição",
+                    "c": 604,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186"
+                },
+                {
+                    "d": "Notificações",
+                    "c": 1005,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186"
+                }
+            ]
+        },
+        {
+            "s": "CCTI",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Encaminhamento da Votação",
+                    "c": 219,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Discussão (Inicio e Continuacao)",
+                    "c": 220,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Notificações",
+                    "c": 1005,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                },
+                {
+                    "d": "Devolução à CCP",
+                    "c": 1010,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+                }
+            ]
+        },
+        {
+            "s": "CCULT",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Discussão (Inicio e Continuacao)",
+                    "c": 220,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Notificações",
+                    "c": 1005,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Sem Parecer Apresentado",
+                    "c": 1250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+                }
+            ]
+        },
+        {
+            "s": "CDC",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Devolução à CCP",
+                    "c": 1010,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Sem Parecer Apresentado",
+                    "c": 1250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+                }
+            ]
+        },
+        {
+            "s": "CDE",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Discussão (Inicio e Continuacao)",
+                    "c": 220,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Rejeição de Requerimento",
+                    "c": 260,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                },
+                {
+                    "d": "Devolução à CCP",
+                    "c": 1010,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+                }
+            ]
+        },
+        {
+            "s": "CDHMIR",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007",
+            "v": [
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+                },
+                {
+                    "d": "Rejeição de Requerimento",
+                    "c": 260,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+                }
+            ]
+        },
+        {
+            "s": "CDU",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+                }
+            ]
+        },
+        {
+            "s": "CE",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Encaminhamento da Votação",
+                    "c": 219,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Votação",
+                    "c": 231,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Rejeição de Requerimento",
+                    "c": 260,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Prejudicado Requerimento",
+                    "c": 362,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Notificações",
+                    "c": 1005,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Devolução à CCP",
+                    "c": 1010,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Sem Parecer Apresentado",
+                    "c": 1250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+                }
+            ]
+        },
+        {
+            "s": "CESPO",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236",
+            "v": [
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+                }
+            ]
+        },
+        {
+            "s": "CEURG",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102328",
+            "v": [
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102328"
+                }
+            ]
+        },
+        {
+            "s": "CFT",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Notificação de Apensação",
+                    "c": 504,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Notificações",
+                    "c": 1005,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                },
+                {
+                    "d": "Devolução à CCP",
+                    "c": 1010,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+                }
+            ]
+        },
+        {
+            "s": "CIDOSO",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Discussão (Inicio e Continuacao)",
+                    "c": 220,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Encerramento de Discussão",
+                    "c": 227,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Votação",
+                    "c": 231,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+                }
+            ]
+        },
+        {
+            "s": "CINDRE",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017",
+            "v": [
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Sem Parecer Apresentado",
+                    "c": 1250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+                }
+            ]
+        },
+        {
+            "s": "CMADS",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174",
+            "v": [
+                {
+                    "d": "Apresentação de Proposição",
+                    "c": 100,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Encaminhamento da Votação",
+                    "c": 219,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Adiamento de Discussão",
+                    "c": 221,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Encerramento de Discussão",
+                    "c": 227,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Votação",
+                    "c": 231,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Verificação de Votação",
+                    "c": 245,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Prejudicado Requerimento",
+                    "c": 362,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Notificações",
+                    "c": 1005,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Devolução à CCP",
+                    "c": 1010,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Sem Parecer Apresentado",
+                    "c": 1250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Com Parecer Apresentado",
+                    "c": 1255,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+                }
+            ]
+        },
+        {
+            "s": "CME",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+                }
+            ]
+        },
+        {
+            "s": "CMULHER",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Devolução à CCP",
+                    "c": 1010,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Sem Parecer Apresentado",
+                    "c": 1250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+                }
+            ]
+        },
+        {
+            "s": "CPD",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Discussão (Inicio e Continuacao)",
+                    "c": 220,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Sem Parecer Apresentado",
+                    "c": 1250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+                }
+            ]
+        },
+        {
+            "s": "CREDN",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018",
+            "v": [
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+                },
+                {
+                    "d": "Devolução à CCP",
+                    "c": 1010,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Com Parecer Apresentado",
+                    "c": 1255,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+                }
+            ]
+        },
+        {
+            "s": "CSAUDE",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Verificação de Votação",
+                    "c": 245,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Rejeição de Requerimento",
+                    "c": 260,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Declaração de Voto em Separado",
+                    "c": 431,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Notificações",
+                    "c": 1005,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Devolução à CCP",
+                    "c": 1010,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Sem Parecer Apresentado",
+                    "c": 1250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Com Parecer Apresentado",
+                    "c": 1255,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+                }
+            ]
+        },
+        {
+            "s": "CSPCCO",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Encaminhamento da Votação",
+                    "c": 219,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Adiamento de Discussão",
+                    "c": 221,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Encerramento de Discussão",
+                    "c": 227,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Votação",
+                    "c": 231,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Rejeição de Requerimento",
+                    "c": 260,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Retirada de Requerimento",
+                    "c": 263,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Sem Parecer Apresentado",
+                    "c": 1250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+                }
+            ]
+        },
+        {
+            "s": "CTRAB",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Votação",
+                    "c": 231,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Notificações",
+                    "c": 1005,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Devolução à CCP",
+                    "c": 1010,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Sem Parecer Apresentado",
+                    "c": 1250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Com Parecer Apresentado",
+                    "c": 1255,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+                }
+            ]
+        },
+        {
+            "s": "CTUR",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6066",
+            "v": [
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6066"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6066"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6066"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6066"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6066"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6066"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Com Parecer Apresentado",
+                    "c": 1255,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6066"
+                }
+            ]
+        },
+        {
+            "s": "CVT",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016",
+            "v": [
+                {
+                    "d": "Devolução ao Relator",
+                    "c": 170,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Encaminhamento da Votação",
+                    "c": 219,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Votação",
+                    "c": 231,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Retirada de Pauta",
+                    "c": 250,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Rejeição de Requerimento",
+                    "c": 260,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Retirada de Requerimento",
+                    "c": 263,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Leitura e publicação do Parecer",
+                    "c": 330,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Aprovação do Parecer",
+                    "c": 336,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Pedido de Vista",
+                    "c": 420,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Recebimento - Relator (Sem Manifestação)",
+                    "c": 507,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Notificações",
+                    "c": 1005,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Devolução à CCP",
+                    "c": 1010,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                },
+                {
+                    "d": "Saída de Relator da Comissão - Com Parecer Apresentado",
+                    "c": 1255,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+                }
+            ]
+        },
+        {
+            "s": "GTJOVENS",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538963",
+            "v": [
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538963"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538963"
+                }
+            ]
+        },
+        {
+            "s": "MERCOSUL",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5973",
+            "v": [
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5973"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5973"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5973"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5973"
+                }
+            ]
+        },
+        {
+            "s": "MERCOSUL-C",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6309",
+            "v": [
+                {
+                    "d": "Notificação de Despacho",
+                    "c": 203,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6309"
+                }
+            ]
+        },
+        {
+            "s": "MESA",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+            "v": [
+                {
+                    "d": "Apresentação de Proposição",
+                    "c": 100,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Desapensação",
+                    "c": 104,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Distribuição",
+                    "c": 110,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Envio para a redação Final",
+                    "c": 113,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Remessa ao Senado Federal",
+                    "c": 128,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Despacho de Apensação",
+                    "c": 129,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Devolução à Mesa para Novo Despacho",
+                    "c": 171,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Encaminhamento",
+                    "c": 180,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Apresentação de Recurso",
+                    "c": 192,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Aprovação de Requerimento",
+                    "c": 195,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Retirada pelo Autor",
+                    "c": 200,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Notificação de Despacho",
+                    "c": 203,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Verificação de Votação",
+                    "c": 245,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Transformação em Norma Jurídica",
+                    "c": 251,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Arquivamento",
+                    "c": 502,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Notificação de Apensação",
+                    "c": 504,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Recebimento - Redação Final",
+                    "c": 506,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Remessa à Sanção",
+                    "c": 609,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Notificação - Pasta genérica",
+                    "c": 1002,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Notificações",
+                    "c": 1005,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Transformado em Norma Jurídica com Veto Parcial",
+                    "c": 1012,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Vetado Totalmente",
+                    "c": 1013,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Ofício de Devolução ao Autor",
+                    "c": 1020,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                },
+                {
+                    "d": "Despacho",
+                    "c": 1023,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+                }
+            ]
+        },
+        {
+            "s": "PL039915",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538408",
+            "v": [
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538408"
+                }
+            ]
+        },
+        {
+            "s": "PL191715",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538460",
+            "v": [
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538460"
+                }
+            ]
+        },
+        {
+            "s": "PL804510",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538344",
+            "v": [
+                {
+                    "d": "Recebimento",
+                    "c": 500,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538344"
+                }
+            ]
+        },
+        {
+            "s": "PLEN",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+            "v": [
+                {
+                    "d": "Apresentação de Proposição",
+                    "c": 100,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Apresentação de Recurso",
+                    "c": 192,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Apresentação de Requerimento",
+                    "c": 194,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Aprovação de Urgência (154, 155 ou 64 CF)",
+                    "c": 196,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Encaminhamento da Votação",
+                    "c": 219,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Discussão (Plenário)",
+                    "c": 222,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Obstrução Discussão (Plenário)",
+                    "c": 223,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Encerramento de Discussão",
+                    "c": 227,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Discussão da Materia pelos Deputados",
+                    "c": 242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Designação de Relator",
+                    "c": 320,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Parecer do Relator",
+                    "c": 322,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Abertura de Prazo",
+                    "c": 350,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Declaração de Prejudicialidade",
+                    "c": 435,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Recebimento - Relator",
+                    "c": 501,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Arquivamento",
+                    "c": 502,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Encerramento de Prazo",
+                    "c": 600,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Arquivamento - Art.133 do RI",
+                    "c": 1024,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Votação (Plenário)",
+                    "c": 1231,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Obstruçao Votação (Plenário)",
+                    "c": 1232,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Destaques (Plenário)",
+                    "c": 1233,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Aprovação de Proposição (Plenário)",
+                    "c": 1235,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Rejeição de Proposição (Plenário)",
+                    "c": 1236,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Manutenção do texto (Plenário)",
+                    "c": 1237,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Verificação de Votação (Plenário)",
+                    "c": 1239,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Prejudicialidade (Plenário)",
+                    "c": 1240,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Retirada pelo Autor (Plenário)",
+                    "c": 1241,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Não Acolhimento (Plenário)",
+                    "c": 1242,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Encaminhamento (Plenário)",
+                    "c": 1243,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Encerramentos",
+                    "c": 1244,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                },
+                {
+                    "d": "Acessórios",
+                    "c": 1245,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+                }
+            ]
+        },
+        {
+            "s": "SECAP(SGM)",
+            "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100001",
+            "v": [
+                {
+                    "d": "Aprovação de Urgência (154, 155 ou 64 CF)",
+                    "c": 196,
+                    "u": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100001"
+                }
+            ]
+        }
+    ],
+    "p": [
+        {
+            "c": 1,
+            "t": "Comissão Diretora"
+        },
+        {
+            "c": 3,
+            "t": "Comissão Especial"
+        },
+        {
+            "c": 26,
+            "t": "Plenário Virtual"
+        },
+        {
+            "c": 12000,
+            "t": "Órgão da Câmara dos Deputados"
+        },
+        {
+            "c": 6,
+            "t": "Comissão Mista Permanente"
+        },
+        {
+            "c": 10,
+            "t": "Grupo de Trabalho"
+        },
+        {
+            "c": 2,
+            "t": "Comissão Permanente"
+        }
+    ]
+}

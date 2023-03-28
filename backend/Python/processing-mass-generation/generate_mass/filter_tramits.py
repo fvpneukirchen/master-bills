@@ -14,7 +14,7 @@ in_file_name = str(file_name) + ".json"
 out_file_name = str(file_name) + "_filter.json"
 steps_out_file_name = str(file_name) + "_steps.json"
 parent_out_file_name = str(file_name) + "_steps_parents.json"
-parent_out_file_name2 = str(file_name) + "_2_steps_parents.json"
+parent_out_file_name3 = str(file_name) + "_3_steps_parents.json"
 
 
 async def gather_with_concurrency(n, *tasks):
@@ -28,18 +28,26 @@ async def gather_with_concurrency(n, *tasks):
 
 
 async def get_async(input_data, session, results):
-    url = str(input_data['u'])
-    print("Calling page " + str(url))
+    # url = str(input_data['u'])
+    # print("Calling page " + str(input_data))
+    obj = None
+    try:
+        async with session.get(input_data) as response:
+            obj = await response.text()
 
-    async with session.get(url) as response:
-        obj = await response.text()
-        o_json = json.loads(obj)
+            o_json = json.loads(str(obj))
 
-        input_data['p'] = o_json["dados"]
-        results['p'].append({'c': o_json['dados']["codTipoOrgao"], 't': o_json['dados']["tipoOrgao"]})
+            # input_data['p'] = o_json["dados"]
+            # results['p'].append({'c': o_json['dados']["codTipoOrgao"], 't': o_json['dados']["tipoOrgao"]})
 
-        if response.status == 200:
-            results['c'].append(input_data)
+            if response.status == 200:
+                results['p'].append({'c': o_json['dados']["codTipoOrgao"], 't': o_json['dados']["tipoOrgao"]})
+                # results['c'].append(input_data)
+                time.sleep(0.3)
+    except:
+        print(input_data)
+        print(obj)
+        print('\n')
 
 
 async def main():
@@ -75,7 +83,7 @@ async def main():
                  'v': sorted([{'d': w['d'], 'c': w['c'], 'u': w['u']} for w in z], key=itemgetter('c'))})
 
         r = t
-
+        urls = [ut['u'] for ut in t]
         # with open(parent_out_file_name, "r", encoding='utf8') as op:
         #     all_s = json.load(op)
         #
@@ -90,26 +98,27 @@ async def main():
         #         # with open(steps_out_file_name, "w", encoding='utf8') as outfile:
         # #     json.dump(r, outfile, indent=4, ensure_ascii=False)
 
-        # conn = aiohttp.TCPConnector(ttl_dns_cache=300, ssl=False)
-        # session = aiohttp.ClientSession(connector=conn, headers={"Content-Type": "application/json"})
+        conn = aiohttp.TCPConnector(ttl_dns_cache=300, ssl=False)
+        session = aiohttp.ClientSession(connector=conn, headers={"Content-Type": "application/json"})
 
-        # results = {
-        #     'c': [],
-        #     # 'p': []
-        # }
+        results = {
+            'c': [],
+            'p': []
+        }
 
-        # conc_req = 5
-        # now = time.time()
-        # await gather_with_concurrency(conc_req, *[get_async(i, session, results) for i in r])
-        # time_taken = time.time() - now
-        #
-        # print(time_taken)
-        # await session.close()
-        #
-        # results['p'] = [dict(t) for t in {tuple(d.items()) for d in results['p']}]
+        conc_req = 2
+        now = time.time()
+        await gather_with_concurrency(conc_req, *[get_async(i, session, results) for i in urls])
+        time_taken = time.time() - now
 
-        with open(parent_out_file_name, "w", encoding='utf8') as outfile:
-            json.dump(r, outfile, indent=4, ensure_ascii=False)
+        print(time_taken)
+        await session.close()
+
+        results['p'] = [dict(t) for t in {tuple(d.items()) for d in results['p']}]
+        results['c'] = r
+
+        with open(parent_out_file_name3, "w", encoding='utf8') as outfile:
+            json.dump(results, outfile, indent=4, ensure_ascii=False)
 
 
 asyncio.run(main())
