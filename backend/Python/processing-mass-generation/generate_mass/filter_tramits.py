@@ -84,6 +84,7 @@ async def main():
 
         r = t
         urls = [ut['u'] for ut in t]
+
         # with open(parent_out_file_name, "r", encoding='utf8') as op:
         #     all_s = json.load(op)
         #
