@@ -1,0 +1,452 @@
+[
+    {
+        "dados": {
+            "id": 36898,
+            "sigla": "AVANTE",
+            "nome": "Avante",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36898",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/AVANTE.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-02-01T14:37",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "7",
+            "totalMembros": "7",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=AVANTE"
+        }
+    },
+    {
+        "dados": {
+            "id": 37905,
+            "sigla": "CIDADANIA",
+            "nome": "Cidadania",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/CIDADANIA.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2021-03-02T13:23",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "5",
+            "totalMembros": "4",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=CIDADANIA"
+        }
+    },
+    {
+        "dados": {
+            "id": 36899,
+            "sigla": "MDB",
+            "nome": "Movimento Democrático Brasileiro",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/MDB.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-05-26T09:57",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "42",
+            "totalMembros": "43",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=MDB"
+        }
+    },
+    {
+        "dados": {
+            "id": 37901,
+            "sigla": "NOVO",
+            "nome": "Partido Novo",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37901",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/NOVO.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-02-01T14:52",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "3",
+            "totalMembros": "3",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=NOVO"
+        }
+    },
+    {
+        "dados": {
+            "id": 37907,
+            "sigla": "PATRIOTA",
+            "nome": "Patriota",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37907",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PATRIOTA.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-02-01T14:43",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "4",
+            "totalMembros": "4",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PATRIOTA"
+        }
+    },
+    {
+        "dados": {
+            "id": 36779,
+            "sigla": "PCdoB",
+            "nome": "Partido Comunista do Brasil",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PCdoB.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2021-02-09T17:31",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "6",
+            "totalMembros": "7",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PCdoB"
+        }
+    },
+    {
+        "dados": {
+            "id": 36786,
+            "sigla": "PDT",
+            "nome": "Partido Democrático Trabalhista",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PDT.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-06-20T20:27",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "17",
+            "totalMembros": "18",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PDT"
+        }
+    },
+    {
+        "dados": {
+            "id": 37906,
+            "sigla": "PL",
+            "nome": "Partido Liberal",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PL.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-03-22T10:14",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "99",
+            "totalMembros": "99",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PL"
+        }
+    },
+    {
+        "dados": {
+            "id": 36896,
+            "sigla": "PODE",
+            "nome": "Podemos",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PODE.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-08-08T10:04",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "18",
+            "totalMembros": "15",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PODE"
+        }
+    },
+    {
+        "dados": {
+            "id": 37903,
+            "sigla": "PP",
+            "nome": "Progressistas",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PP.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-09-13T14:30",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "47",
+            "totalMembros": "49",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PP"
+        }
+    },
+    {
+        "dados": {
+            "id": 36763,
+            "sigla": "PROS",
+            "nome": "Partido Republicano da Ordem Social",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36763",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PROS.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2022-08-12T12:14",
+            "idLegislatura": "57",
+            "situacao": "Extinto",
+            "totalPosse": "0",
+            "totalMembros": "0",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PROS"
+        }
+    },
+    {
+        "dados": {
+            "id": 36832,
+            "sigla": "PSB",
+            "nome": "Partido Socialista Brasileiro",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PSB.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-04-19T15:07",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "14",
+            "totalMembros": "15",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PSB"
+        }
+    },
+    {
+        "dados": {
+            "id": 36833,
+            "sigla": "PSC",
+            "nome": "Partido Social Cristão",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PSC.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2022-02-16T19:25",
+            "idLegislatura": "57",
+            "situacao": "Extinto",
+            "totalPosse": "0",
+            "totalMembros": "0",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PSC"
+        }
+    },
+    {
+        "dados": {
+            "id": 36834,
+            "sigla": "PSD",
+            "nome": "Partido Social Democrático",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PSD.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-09-12T09:57",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "42",
+            "totalMembros": "43",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PSD"
+        }
+    },
+    {
+        "dados": {
+            "id": 36835,
+            "sigla": "PSDB",
+            "nome": "Partido da Social Democracia Brasileira",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PSDB.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-02-01T14:42",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "13",
+            "totalMembros": "14",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PSDB"
+        }
+    },
+    {
+        "dados": {
+            "id": 36837,
+            "sigla": "PSL",
+            "nome": "Partido Social Liberal",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36837",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PSL.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2018-12-13T10:37",
+            "idLegislatura": "56",
+            "situacao": "Inativo",
+            "totalPosse": "0",
+            "totalMembros": "0",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=56&siglaPartido=PSL"
+        }
+    },
+    {
+        "dados": {
+            "id": 36839,
+            "sigla": "PSOL",
+            "nome": "Partido Socialismo e Liberdade",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PSOL.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-02-01T20:37",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "12",
+            "totalMembros": "13",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PSOL"
+        }
+    },
+    {
+        "dados": {
+            "id": 36844,
+            "sigla": "PT",
+            "nome": "Partido dos Trabalhadores",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PT.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-02-01T14:51",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "69",
+            "totalMembros": "68",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PT"
+        }
+    },
+    {
+        "dados": {
+            "id": 36845,
+            "sigla": "PTB",
+            "nome": "Partido Trabalhista Brasileiro",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PTB.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2022-03-22T09:17",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "1",
+            "totalMembros": "0",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PTB"
+        }
+    },
+    {
+        "dados": {
+            "id": 36851,
+            "sigla": "PV",
+            "nome": "Partido Verde",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/PV.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2022-10-25T18:27",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "6",
+            "totalMembros": "6",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=PV"
+        }
+    },
+    {
+        "dados": {
+            "id": 36886,
+            "sigla": "REDE",
+            "nome": "Rede Sustentabilidade",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36886",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/REDE.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2022-12-13T20:41",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "2",
+            "totalMembros": "1",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=REDE"
+        }
+    },
+    {
+        "dados": {
+            "id": 37908,
+            "sigla": "REPUBLICANOS",
+            "nome": "Republicanos",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/REPUBLICANOS.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-04-26T09:22",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "40",
+            "totalMembros": "41",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=REPUBLICANOS"
+        }
+    },
+    {
+        "dados": {
+            "id": 36852,
+            "sigla": "S.PART.",
+            "nome": "Sem Partido",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36852",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/S.PART..gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": null,
+            "idLegislatura": "57",
+            "situacao": null,
+            "totalPosse": "0",
+            "totalMembros": "0",
+            "uriMembros": ""
+        }
+    },
+    {
+        "dados": {
+            "id": 37904,
+            "sigla": "SOLIDARIEDADE",
+            "nome": "Solidariedade",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37904",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/SOLIDARIEDADE.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-02-01T14:53",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "7",
+            "totalMembros": "4",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=SOLIDARIEDADE"
+        }
+    },
+    {
+        "dados": {
+            "id": 38009,
+            "sigla": "UNIÃO",
+            "nome": "União Brasil",
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+            "numeroEleitoral": null,
+            "urlLogo": "https://www.camara.leg.br/internet/Deputado/img/partidos/UNIÃO.gif",
+            "urlWebSite": null,
+            "urlFacebook": null,
+            "data": "2023-02-01T14:48",
+            "idLegislatura": "57",
+            "situacao": "Ativo",
+            "totalPosse": "59",
+            "totalMembros": "59",
+            "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&siglaPartido=UNIÃO"
+        }
+    }
+]

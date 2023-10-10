@@ -1,0 +1,380 @@
+[
+    {
+        "name": "Apresentação de Proposição",
+        "n": 1,
+        "grp": 180,
+        "id": "Apresentação de Proposição"
+    },
+    {
+        "name": "Apresentação de Requerimento",
+        "n": 1,
+        "grp": 180,
+        "id": "Apresentação de Requerimento"
+    },
+    {
+        "name": "Aprovação de Urgência (154, 155 ou 64 CF)",
+        "n": 1,
+        "grp": 180,
+        "id": "Aprovação de Urgência (154, 155 ou 64 CF)"
+    },
+    {
+        "name": "Aprovação de Urgência (154, 155 ou 64 CF)",
+        "n": 1,
+        "grp": 180,
+        "id": "Aprovação de Urgência (154, 155 ou 64 CF)"
+    },
+    {
+        "name": "Distribuição",
+        "n": 1,
+        "grp": 4,
+        "id": "Distribuição"
+    },
+    {
+        "name": "Recebimento - Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Recebimento - Relator"
+    },
+    {
+        "name": "Encaminhamento",
+        "n": 1,
+        "grp": 186,
+        "id": "Encaminhamento"
+    },
+    {
+        "name": "Encaminhamento",
+        "n": 1,
+        "grp": 186,
+        "id": "Encaminhamento"
+    },
+    {
+        "name": "Encaminhamento",
+        "n": 1,
+        "grp": 186,
+        "id": "Encaminhamento"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Recebimento",
+        "n": 1,
+        "grp": 2001,
+        "id": "Recebimento"
+    },
+    {
+        "name": "Retirada pelo Autor (Plenário)",
+        "n": 1,
+        "grp": 180,
+        "id": "Retirada pelo Autor (Plenário)"
+    },
+    {
+        "name": "Publicação de Proposição",
+        "n": 1,
+        "grp": 186,
+        "id": "Publicação de Proposição"
+    },
+    {
+        "name": "Recebimento",
+        "n": 1,
+        "grp": 2003,
+        "id": "Recebimento"
+    },
+    {
+        "name": "Recebimento",
+        "n": 1,
+        "grp": 2010,
+        "id": "Recebimento"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Designação de Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Designação de Relator"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Designação de Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Designação de Relator"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Encerramentos",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramentos"
+    },
+    {
+        "name": "Discussão (Plenário)",
+        "n": 1,
+        "grp": 180,
+        "id": "Discussão (Plenário)"
+    },
+    {
+        "name": "Designação de Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Designação de Relator"
+    },
+    {
+        "name": "Parecer do Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Parecer do Relator"
+    },
+    {
+        "name": "Designação de Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Designação de Relator"
+    },
+    {
+        "name": "Parecer do Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Parecer do Relator"
+    },
+    {
+        "name": "Designação de Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Designação de Relator"
+    },
+    {
+        "name": "Parecer do Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Parecer do Relator"
+    },
+    {
+        "name": "Encerramento de Discussão",
+        "n": 1,
+        "grp": 180,
+        "id": "Encerramento de Discussão"
+    },
+    {
+        "name": "Acessórios",
+        "n": 1,
+        "grp": 180,
+        "id": "Acessórios"
+    },
+    {
+        "name": "Designação de Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Designação de Relator"
+    },
+    {
+        "name": "Parecer do Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Parecer do Relator"
+    },
+    {
+        "name": "Designação de Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Designação de Relator"
+    },
+    {
+        "name": "Parecer do Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Parecer do Relator"
+    },
+    {
+        "name": "Designação de Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Designação de Relator"
+    },
+    {
+        "name": "Parecer do Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Parecer do Relator"
+    },
+    {
+        "name": "Votação (Plenário)",
+        "n": 1,
+        "grp": 180,
+        "id": "Votação (Plenário)"
+    },
+    {
+        "name": "Aprovação de Proposição (Plenário)",
+        "n": 1,
+        "grp": 180,
+        "id": "Aprovação de Proposição (Plenário)"
+    },
+    {
+        "name": "Prejudicialidade (Plenário)",
+        "n": 1,
+        "grp": 180,
+        "id": "Prejudicialidade (Plenário)"
+    },
+    {
+        "name": "Votação (Plenário)",
+        "n": 1,
+        "grp": 180,
+        "id": "Votação (Plenário)"
+    },
+    {
+        "name": "Aprovação de Proposição (Plenário)",
+        "n": 1,
+        "grp": 180,
+        "id": "Aprovação de Proposição (Plenário)"
+    },
+    {
+        "name": "Encaminhamento (Plenário)",
+        "n": 1,
+        "grp": 180,
+        "id": "Encaminhamento (Plenário)"
+    },
+    {
+        "name": "Recebimento - Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Recebimento - Relator"
+    },
+    {
+        "name": "Recebimento - Relator",
+        "n": 1,
+        "grp": 180,
+        "id": "Recebimento - Relator"
+    },
+    {
+        "name": "Notificações",
+        "n": 1,
+        "grp": 186,
+        "id": "Notificações"
+    },
+    {
+        "name": "Apresentação de Proposição",
+        "n": 1,
+        "grp": 4,
+        "id": "Apresentação de Proposição"
+    },
+    {
+        "name": "Remessa ao Senado Federal",
+        "n": 1,
+        "grp": 4,
+        "id": "Remessa ao Senado Federal"
+    },
+    {
+        "name": "Recebimento",
+        "n": 1,
+        "grp": 4,
+        "id": "Recebimento"
+    },
+    {
+        "name": "Vetado Totalmente",
+        "n": 1,
+        "grp": 4,
+        "id": "Vetado Totalmente"
+    },
+    {
+        "name": "Transformação em Norma Jurídica",
+        "n": 1,
+        "grp": 4,
+        "id": "Transformação em Norma Jurídica"
+    }
+]

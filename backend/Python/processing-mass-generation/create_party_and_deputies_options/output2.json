@@ -1,0 +1,2621 @@
+{
+    "PSC": {
+        "label": "PSC",
+        "options": [
+            {
+                "label": "Abílio Santana",
+                "value": "204554"
+            },
+            {
+                "label": "Euclydes Pettersen",
+                "value": "204482"
+            },
+            {
+                "label": "Gilberto Nascimento",
+                "value": "74270"
+            },
+            {
+                "label": "Glaustin da Fokus",
+                "value": "204419"
+            },
+            {
+                "label": "Guiga Peixoto",
+                "value": "204513"
+            },
+            {
+                "label": "Lauriete",
+                "value": "160534"
+            },
+            {
+                "label": "Leonardo Gadelha",
+                "value": "122195"
+            },
+            {
+                "label": "Lucas Follador",
+                "value": "219592"
+            },
+            {
+                "label": "MANOEL JUNIOR",
+                "value": "141490"
+            },
+            {
+                "label": "Osires Damaso",
+                "value": "204363"
+            },
+            {
+                "label": "Pedro Dalua",
+                "value": "217330"
+            },
+            {
+                "label": "Ruy Carneiro",
+                "value": "160635"
+            }
+        ]
+    },
+    "UNIÃO": {
+        "label": "UNIÃO",
+        "options": [
+            {
+                "label": "Abou Anni",
+                "value": "204521"
+            },
+            {
+                "label": "Alan Rick",
+                "value": "178836"
+            },
+            {
+                "label": "Alexandre Leite",
+                "value": "160545"
+            },
+            {
+                "label": "Aníbal Gomes",
+                "value": "74212"
+            },
+            {
+                "label": "Arthur Oliveira Maia",
+                "value": "160600"
+            },
+            {
+                "label": "Benes Leocádio",
+                "value": "109429"
+            },
+            {
+                "label": "Bilac Pinto",
+                "value": "141513"
+            },
+            {
+                "label": "Bozzella",
+                "value": "204502"
+            },
+            {
+                "label": "Capitão Wagner",
+                "value": "204487"
+            },
+            {
+                "label": "Carla Dickson",
+                "value": "213762"
+            },
+            {
+                "label": "Carlos Henrique Gaguim",
+                "value": "178993"
+            },
+            {
+                "label": "Celso Sabino",
+                "value": "204496"
+            },
+            {
+                "label": "Chiquinho Brazão",
+                "value": "204476"
+            },
+            {
+                "label": "Clarissa Garotinho",
+                "value": "178939"
+            },
+            {
+                "label": "Damião Feliciano",
+                "value": "74467"
+            },
+            {
+                "label": "Daniela do Waguinho",
+                "value": "204459"
+            },
+            {
+                "label": "Danilo Forte",
+                "value": "62881"
+            },
+            {
+                "label": "David Soares",
+                "value": "204511"
+            },
+            {
+                "label": "Delegado Antônio Furtado",
+                "value": "204451"
+            },
+            {
+                "label": "Delegado Marcelo Freitas",
+                "value": "204512"
+            },
+            {
+                "label": "Delegado Pablo",
+                "value": "204569"
+            },
+            {
+                "label": "Delegado Waldir",
+                "value": "164359"
+            },
+            {
+                "label": "Dr. Agripino Magalhães",
+                "value": "213854"
+            },
+            {
+                "label": "Dr. Zacharias Calil",
+                "value": "204412"
+            },
+            {
+                "label": "Efraim Filho",
+                "value": "141422"
+            },
+            {
+                "label": "Eli Corrêa Filho",
+                "value": "160532"
+            },
+            {
+                "label": "Elmar Nascimento",
+                "value": "178854"
+            },
+            {
+                "label": "Enéias Reis",
+                "value": "207309"
+            },
+            {
+                "label": "Fábio Henrique",
+                "value": "68720"
+            },
+            {
+                "label": "Fabio Schiochet",
+                "value": "204368"
+            },
+            {
+                "label": "Felipe Francischini",
+                "value": "204398"
+            },
+            {
+                "label": "Felipe Rigoni",
+                "value": "204371"
+            },
+            {
+                "label": "Fernando Coelho Filho",
+                "value": "141431"
+            },
+            {
+                "label": "General Peternelli",
+                "value": "204484"
+            },
+            {
+                "label": "Geninho Zuliani",
+                "value": "204527"
+            },
+            {
+                "label": "Heitor Freire",
+                "value": "204548"
+            },
+            {
+                "label": "Hélio Leite",
+                "value": "178909"
+            },
+            {
+                "label": "Igor Kannário",
+                "value": "204564"
+            },
+            {
+                "label": "José Rocha",
+                "value": "74554"
+            },
+            {
+                "label": "Julian Lemos",
+                "value": "204420"
+            },
+            {
+                "label": "Juninho do Pneu",
+                "value": "204457"
+            },
+            {
+                "label": "Juscelino Filho",
+                "value": "178886"
+            },
+            {
+                "label": "Kim Kataguiri",
+                "value": "204536"
+            },
+            {
+                "label": "Laura Carneiro",
+                "value": "74856"
+            },
+            {
+                "label": "Leur Lomanto Júnior",
+                "value": "92102"
+            },
+            {
+                "label": "Luciano Bivar",
+                "value": "74478"
+            },
+            {
+                "label": "Marcos Soares",
+                "value": "178943"
+            },
+            {
+                "label": "MISSIONÁRIO JOSÉ OLIMPIO",
+                "value": "160561"
+            },
+            {
+                "label": "Moses Rodrigues",
+                "value": "178997"
+            },
+            {
+                "label": "Nelho Bezerra",
+                "value": "218879"
+            },
+            {
+                "label": "Ney Leprevost",
+                "value": "204384"
+            },
+            {
+                "label": "Nicoletti",
+                "value": "204479"
+            },
+            {
+                "label": "Paes Landim",
+                "value": "74319"
+            },
+            {
+                "label": "Paulo Azi",
+                "value": "178860"
+            },
+            {
+                "label": "Pedro Lucas Fernandes",
+                "value": "122974"
+            },
+            {
+                "label": "Professora Dayane Pimentel",
+                "value": "204565"
+            },
+            {
+                "label": "Professora Dorinha Seabra Rezende",
+                "value": "160639"
+            },
+            {
+                "label": "Ricardo Pericar",
+                "value": "211649"
+            },
+            {
+                "label": "Rodrigo de Castro",
+                "value": "141531"
+            },
+            {
+                "label": "Rose Modesto",
+                "value": "204357"
+            },
+            {
+                "label": "Rui Godinho",
+                "value": "221157"
+            },
+            {
+                "label": "Vaidon Oliveira",
+                "value": "195866"
+            },
+            {
+                "label": "Vinicius Farah",
+                "value": "204478"
+            },
+            {
+                "label": "Zé Augusto Nalin",
+                "value": "191945"
+            }
+        ]
+    },
+    "MDB": {
+        "label": "MDB",
+        "options": [
+            {
+                "label": "Acácio Favacho",
+                "value": "204379"
+            },
+            {
+                "label": "Alceu Moreira",
+                "value": "160559"
+            },
+            {
+                "label": "Baleia Rossi",
+                "value": "178975"
+            },
+            {
+                "label": "Carlos Bezerra",
+                "value": "141401"
+            },
+            {
+                "label": "Carlos Chiodini",
+                "value": "204361"
+            },
+            {
+                "label": "Célio Silveira",
+                "value": "178876"
+            },
+            {
+                "label": "Celso Maldaner",
+                "value": "141405"
+            },
+            {
+                "label": "Darcísio Perondi",
+                "value": "73891"
+            },
+            {
+                "label": "Dulce Miranda",
+                "value": "178994"
+            },
+            {
+                "label": "Elcione Barbalho",
+                "value": "74075"
+            },
+            {
+                "label": "Emanuel Pinheiro Neto",
+                "value": "198783"
+            },
+            {
+                "label": "Enrico Misasi",
+                "value": "204537"
+            },
+            {
+                "label": "Fábio Ramalho",
+                "value": "141427"
+            },
+            {
+                "label": "Flaviano Melo",
+                "value": "141434"
+            },
+            {
+                "label": "Giovani Feltes",
+                "value": "178996"
+            },
+            {
+                "label": "Gutemberg Reis",
+                "value": "204456"
+            },
+            {
+                "label": "Hercílio Coelho Diniz",
+                "value": "204539"
+            },
+            {
+                "label": "Hermes Parcianello",
+                "value": "73772"
+            },
+            {
+                "label": "Hildo Rocha",
+                "value": "178884"
+            },
+            {
+                "label": "Isnaldo Bulhões Jr.",
+                "value": "204436"
+            },
+            {
+                "label": "Jéssica Sales",
+                "value": "178839"
+            },
+            {
+                "label": "João Marcelo Souza",
+                "value": "112437"
+            },
+            {
+                "label": "Jose Mario Schreiner",
+                "value": "204386"
+            },
+            {
+                "label": "José Priante",
+                "value": "74079"
+            },
+            {
+                "label": "Juarez Costa",
+                "value": "204474"
+            },
+            {
+                "label": "Leonardo Picciani",
+                "value": "74254"
+            },
+            {
+                "label": "Lucio Mosquini",
+                "value": "178954"
+            },
+            {
+                "label": "Mara Rocha",
+                "value": "204471"
+            },
+            {
+                "label": "Marcia Scherer",
+                "value": "221147"
+            },
+            {
+                "label": "Márcio Biolchi",
+                "value": "179001"
+            },
+            {
+                "label": "Newton Cardoso Jr",
+                "value": "178896"
+            },
+            {
+                "label": "Olival Marques",
+                "value": "204498"
+            },
+            {
+                "label": "Osmar Terra",
+                "value": "73692"
+            },
+            {
+                "label": "Otoni de Paula",
+                "value": "204441"
+            },
+            {
+                "label": "Raul Henry",
+                "value": "141523"
+            },
+            {
+                "label": "Rogério Peninha Mendonça",
+                "value": "160651"
+            },
+            {
+                "label": "Sergio Souza",
+                "value": "178933"
+            },
+            {
+                "label": "Severino Pessoa",
+                "value": "204437"
+            },
+            {
+                "label": "Tadeu Filippelli",
+                "value": "74806"
+            },
+            {
+                "label": "Uldurico Junior",
+                "value": "178863"
+            },
+            {
+                "label": "VALDIR COLATTO",
+                "value": "74010"
+            },
+            {
+                "label": "Valtenir Pereira",
+                "value": "141552"
+            },
+            {
+                "label": "Victor Mendes",
+                "value": "178888"
+            },
+            {
+                "label": "Walter Alves",
+                "value": "178952"
+            }
+        ]
+    },
+    "PSDB": {
+        "label": "PSDB",
+        "options": [
+            {
+                "label": "Adolfo Viana",
+                "value": "204560"
+            },
+            {
+                "label": "Aécio Neves",
+                "value": "74646"
+            },
+            {
+                "label": "Beto Pereira",
+                "value": "204358"
+            },
+            {
+                "label": "Bia Cavassa",
+                "value": "207176"
+            },
+            {
+                "label": "Bruna Furlan",
+                "value": "160589"
+            },
+            {
+                "label": "Carlos Sampaio",
+                "value": "74262"
+            },
+            {
+                "label": "Dagoberto Nogueira",
+                "value": "141411"
+            },
+            {
+                "label": "Daniel Trzeciak",
+                "value": "204409"
+            },
+            {
+                "label": "Eduardo Barbosa",
+                "value": "74655"
+            },
+            {
+                "label": "Eduardo Cury",
+                "value": "178977"
+            },
+            {
+                "label": "Geovania de Sá",
+                "value": "178966"
+            },
+            {
+                "label": "Geraldo Resende",
+                "value": "74374"
+            },
+            {
+                "label": "Joice Hasselmann",
+                "value": "204546"
+            },
+            {
+                "label": "Lucas Redecker",
+                "value": "204404"
+            },
+            {
+                "label": "Luiz Carlos",
+                "value": "160645"
+            },
+            {
+                "label": "Luiz Lauro Filho",
+                "value": "178982"
+            },
+            {
+                "label": "MARCO TEBALDI",
+                "value": "160536"
+            },
+            {
+                "label": "Marcus Pestana",
+                "value": "159238"
+            },
+            {
+                "label": "Miguel Haddad",
+                "value": "178984"
+            },
+            {
+                "label": "Nilson Pinto",
+                "value": "74352"
+            },
+            {
+                "label": "Norma Pereira",
+                "value": "216198"
+            },
+            {
+                "label": "Otavio Leite",
+                "value": "141515"
+            },
+            {
+                "label": "Paulo Abi-Ackel",
+                "value": "141516"
+            },
+            {
+                "label": "Pedro Cunha Lima",
+                "value": "178912"
+            },
+            {
+                "label": "Pedro Vilela",
+                "value": "178844"
+            },
+            {
+                "label": "Rafafá",
+                "value": "216313"
+            },
+            {
+                "label": "Roberto Pessoa",
+                "value": "74305"
+            },
+            {
+                "label": "Rodrigo Maia",
+                "value": "74693"
+            },
+            {
+                "label": "Rossoni",
+                "value": "178935"
+            },
+            {
+                "label": "Samuel Moreira",
+                "value": "178990"
+            },
+            {
+                "label": "Shéridan",
+                "value": "178961"
+            },
+            {
+                "label": "Vanderlei Macris",
+                "value": "141553"
+            },
+            {
+                "label": "Vitor Lippi",
+                "value": "178992"
+            }
+        ]
+    },
+    "NOVO": {
+        "label": "NOVO",
+        "options": [
+            {
+                "label": "Adriana Ventura",
+                "value": "204528"
+            },
+            {
+                "label": "Alexis Fonteyne",
+                "value": "204516"
+            },
+            {
+                "label": "Gilson Marques",
+                "value": "204365"
+            },
+            {
+                "label": "Lucas Gonzalez",
+                "value": "204523"
+            },
+            {
+                "label": "Marcel van Hattem",
+                "value": "156190"
+            },
+            {
+                "label": "Paulo Ganime",
+                "value": "204461"
+            },
+            {
+                "label": "Tiago Mitraud",
+                "value": "204519"
+            },
+            {
+                "label": "Vinicius Poit",
+                "value": "204532"
+            }
+        ]
+    },
+    "PP": {
+        "label": "PP",
+        "options": [
+            {
+                "label": "Adriano do Baldy",
+                "value": "121948"
+            },
+            {
+                "label": "Aelton Freitas",
+                "value": "141372"
+            },
+            {
+                "label": "Afonso Hamm",
+                "value": "136811"
+            },
+            {
+                "label": "Aguinaldo Ribeiro",
+                "value": "160527"
+            },
+            {
+                "label": "AJ Albuquerque",
+                "value": "204549"
+            },
+            {
+                "label": "André Abdon",
+                "value": "178831"
+            },
+            {
+                "label": "André Fufuca",
+                "value": "178882"
+            },
+            {
+                "label": "Angela Amin",
+                "value": "73696"
+            },
+            {
+                "label": "ARNALDO FARIA DE SÁ",
+                "value": "73434"
+            },
+            {
+                "label": "Arthur Lira",
+                "value": "160541"
+            },
+            {
+                "label": "Átila Lira",
+                "value": "74459"
+            },
+            {
+                "label": "Beto Rosado",
+                "value": "178948"
+            },
+            {
+                "label": "Cacá Leão",
+                "value": "93083"
+            },
+            {
+                "label": "Celina Leão",
+                "value": "204380"
+            },
+            {
+                "label": "Charlles Evangelista",
+                "value": "204490"
+            },
+            {
+                "label": "Christiane de Souza Yared",
+                "value": "178928"
+            },
+            {
+                "label": "Christino Aureo",
+                "value": "204440"
+            },
+            {
+                "label": "Claudio Cajado",
+                "value": "74537"
+            },
+            {
+                "label": "Covatti Filho",
+                "value": "178963"
+            },
+            {
+                "label": "Cristiano Vale",
+                "value": "135054"
+            },
+            {
+                "label": "Da Vitoria",
+                "value": "204355"
+            },
+            {
+                "label": "Dimas Fabiano",
+                "value": "160599"
+            },
+            {
+                "label": "Doutor Luizinho",
+                "value": "204450"
+            },
+            {
+                "label": "Dr. Luiz Ovando",
+                "value": "204351"
+            },
+            {
+                "label": "Eduardo da Fonte",
+                "value": "141421"
+            },
+            {
+                "label": "Eliza Virgínia",
+                "value": "220008"
+            },
+            {
+                "label": "Evair Vieira de Melo",
+                "value": "178871"
+            },
+            {
+                "label": "Fábio Faria",
+                "value": "141428"
+            },
+            {
+                "label": "Fausto Pinato",
+                "value": "66828"
+            },
+            {
+                "label": "Felício Laterça",
+                "value": "204477"
+            },
+            {
+                "label": "Fernando Monteiro",
+                "value": "92699"
+            },
+            {
+                "label": "Franco Cartafina",
+                "value": "204510"
+            },
+            {
+                "label": "Guilherme Mussi",
+                "value": "160667"
+            },
+            {
+                "label": "Hiran Gonçalves",
+                "value": "178959"
+            },
+            {
+                "label": "Iracema Portella",
+                "value": "67138"
+            },
+            {
+                "label": "Jaqueline Cassol",
+                "value": "108338"
+            },
+            {
+                "label": "Jerônimo Goergen",
+                "value": "160570"
+            },
+            {
+                "label": "José Nelto",
+                "value": "204391"
+            },
+            {
+                "label": "Julio Lopes",
+                "value": "74253"
+            },
+            {
+                "label": "Laercio Oliveira",
+                "value": "151208"
+            },
+            {
+                "label": "Lázaro Botelho",
+                "value": "141480"
+            },
+            {
+                "label": "Leda Sadala",
+                "value": "204375"
+            },
+            {
+                "label": "Lourival Gomes",
+                "value": "196358"
+            },
+            {
+                "label": "Luiz Antônio Corrêa",
+                "value": "204448"
+            },
+            {
+                "label": "Maia Filho",
+                "value": "151965"
+            },
+            {
+                "label": "Marcelo Aro",
+                "value": "146788"
+            },
+            {
+                "label": "Marco Brasil",
+                "value": "219585"
+            },
+            {
+                "label": "Margarete Coelho",
+                "value": "204430"
+            },
+            {
+                "label": "Mário Negromonte Jr.",
+                "value": "178858"
+            },
+            {
+                "label": "Marx Beltrão",
+                "value": "178843"
+            },
+            {
+                "label": "Mauro Lopes",
+                "value": "74749"
+            },
+            {
+                "label": "Neri Geller",
+                "value": "146307"
+            },
+            {
+                "label": "Neucimar Fraga",
+                "value": "74165"
+            },
+            {
+                "label": "Nilson F. Stainsack",
+                "value": "214445"
+            },
+            {
+                "label": "Norma Ayub",
+                "value": "66179"
+            },
+            {
+                "label": "Osmar Serraglio",
+                "value": "73463"
+            },
+            {
+                "label": "Pedro Augusto Palareti",
+                "value": "215045"
+            },
+            {
+                "label": "Pedro Lupion",
+                "value": "204395"
+            },
+            {
+                "label": "Pedro Westphalen",
+                "value": "204406"
+            },
+            {
+                "label": "Pinheirinho",
+                "value": "204524"
+            },
+            {
+                "label": "Ricardo Barros",
+                "value": "73788"
+            },
+            {
+                "label": "ROBERTO BALESTRA",
+                "value": "73674"
+            },
+            {
+                "label": "Roman",
+                "value": "178930"
+            },
+            {
+                "label": "Ronaldo Carletto",
+                "value": "178861"
+            },
+            {
+                "label": "Schiavinato",
+                "value": "204399"
+            },
+            {
+                "label": "SIMÃO SESSIM",
+                "value": "73424"
+            },
+            {
+                "label": "Tereza Cristina",
+                "value": "178901"
+            },
+            {
+                "label": "Toninho Wandscheer",
+                "value": "178934"
+            },
+            {
+                "label": "Vicentinho Júnior",
+                "value": "137070"
+            }
+        ]
+    },
+    "PT": {
+        "label": "PT",
+        "options": [
+            {
+                "label": "Afonso Florence",
+                "value": "160508"
+            },
+            {
+                "label": "Airton Faleiro",
+                "value": "204495"
+            },
+            {
+                "label": "Alencar Santana",
+                "value": "204501"
+            },
+            {
+                "label": "Alexandre Padilha",
+                "value": "204503"
+            },
+            {
+                "label": "Alfredinho",
+                "value": "221148"
+            },
+            {
+                "label": "Arlindo Chinaglia",
+                "value": "73433"
+            },
+            {
+                "label": "Assis Carvalho",
+                "value": "159237"
+            },
+            {
+                "label": "Benedita da Silva",
+                "value": "73701"
+            },
+            {
+                "label": "Beto Faro",
+                "value": "141335"
+            },
+            {
+                "label": "Bohn Gass",
+                "value": "160538"
+            },
+            {
+                "label": "Caetano",
+                "value": "178853"
+            },
+            {
+                "label": "Carlos Veras",
+                "value": "204426"
+            },
+            {
+                "label": "Carlos Zarattini",
+                "value": "141398"
+            },
+            {
+                "label": "Célio Moura",
+                "value": "204370"
+            },
+            {
+                "label": "Elói Pietá",
+                "value": "221149"
+            },
+            {
+                "label": "Enio Verri",
+                "value": "132504"
+            },
+            {
+                "label": "Erika Kokay",
+                "value": "160575"
+            },
+            {
+                "label": "Fernando Mineiro",
+                "value": "204445"
+            },
+            {
+                "label": "Flávio Nogueira",
+                "value": "191923"
+            },
+            {
+                "label": "Frei Anastacio Ribeiro",
+                "value": "204393"
+            },
+            {
+                "label": "Gleisi Hoffmann",
+                "value": "107283"
+            },
+            {
+                "label": "Helder Salomão",
+                "value": "178873"
+            },
+            {
+                "label": "Henrique Fontana",
+                "value": "73482"
+            },
+            {
+                "label": "João Daniel",
+                "value": "178970"
+            },
+            {
+                "label": "Jorge Solla",
+                "value": "178857"
+            },
+            {
+                "label": "José Airton Félix Cirilo",
+                "value": "141464"
+            },
+            {
+                "label": "José Guimarães",
+                "value": "141470"
+            },
+            {
+                "label": "José Ricardo",
+                "value": "204555"
+            },
+            {
+                "label": "Joseildo Ramos",
+                "value": "209189"
+            },
+            {
+                "label": "Josias Gomes",
+                "value": "74141"
+            },
+            {
+                "label": "Leo de Brito",
+                "value": "178825"
+            },
+            {
+                "label": "Leonardo Monteiro",
+                "value": "74156"
+            },
+            {
+                "label": "Luizianne Lins",
+                "value": "178866"
+            },
+            {
+                "label": "Márcio Macêdo",
+                "value": "160542"
+            },
+            {
+                "label": "Marco Maia",
+                "value": "133373"
+            },
+            {
+                "label": "Marcon",
+                "value": "160535"
+            },
+            {
+                "label": "Margarida Salomão",
+                "value": "171619"
+            },
+            {
+                "label": "Maria do Rosário",
+                "value": "74398"
+            },
+            {
+                "label": "Merlong Solano",
+                "value": "188097"
+            },
+            {
+                "label": "Natália Bonavides",
+                "value": "204453"
+            },
+            {
+                "label": "Nelson Pellegrino",
+                "value": "74571"
+            },
+            {
+                "label": "Nilto Tatto",
+                "value": "178986"
+            },
+            {
+                "label": "Odair Cunha",
+                "value": "74159"
+            },
+            {
+                "label": "Padre João",
+                "value": "160556"
+            },
+            {
+                "label": "Patrus Ananias",
+                "value": "74160"
+            },
+            {
+                "label": "Paulão",
+                "value": "171617"
+            },
+            {
+                "label": "Paulo Guedes",
+                "value": "204492"
+            },
+            {
+                "label": "Paulo Pimenta",
+                "value": "74400"
+            },
+            {
+                "label": "Paulo Teixeira",
+                "value": "141488"
+            },
+            {
+                "label": "Pedro Uczai",
+                "value": "160604"
+            },
+            {
+                "label": "Professora Rosa Neide",
+                "value": "204467"
+            },
+            {
+                "label": "Rachel Marques",
+                "value": "215361"
+            },
+            {
+                "label": "Reginaldo Lopes",
+                "value": "74161"
+            },
+            {
+                "label": "Rejane Dias",
+                "value": "178925"
+            },
+            {
+                "label": "Rogério Correia",
+                "value": "204480"
+            },
+            {
+                "label": "Rubens Otoni",
+                "value": "74371"
+            },
+            {
+                "label": "Rubens Pereira Júnior",
+                "value": "178887"
+            },
+            {
+                "label": "Rui Falcão",
+                "value": "73604"
+            },
+            {
+                "label": "Valmir Assunção",
+                "value": "160610"
+            },
+            {
+                "label": "Vander Loubet",
+                "value": "74376"
+            },
+            {
+                "label": "Vicentinho",
+                "value": "74283"
+            },
+            {
+                "label": "Waldenor Pereira",
+                "value": "160569"
+            },
+            {
+                "label": "Zé Carlos",
+                "value": "178889"
+            },
+            {
+                "label": "Zé Neto",
+                "value": "204559"
+            },
+            {
+                "label": "Zeca Dirceu",
+                "value": "160592"
+            }
+        ]
+    },
+    "PDT": {
+        "label": "PDT",
+        "options": [
+            {
+                "label": "Afonso Motta",
+                "value": "178835"
+            },
+            {
+                "label": "André Figueiredo",
+                "value": "133439"
+            },
+            {
+                "label": "Chico D'Angelo",
+                "value": "141439"
+            },
+            {
+                "label": "David Miranda",
+                "value": "205548"
+            },
+            {
+                "label": "Eduardo Bismarck",
+                "value": "204541"
+            },
+            {
+                "label": "Félix Mendonça Júnior",
+                "value": "160666"
+            },
+            {
+                "label": "Flávia Morais",
+                "value": "160598"
+            },
+            {
+                "label": "Gustavo Fruet",
+                "value": "73460"
+            },
+            {
+                "label": "Idilvan Alencar",
+                "value": "204533"
+            },
+            {
+                "label": "Jesus Sérgio",
+                "value": "204435"
+            },
+            {
+                "label": "Leônidas Cristino",
+                "value": "74299"
+            },
+            {
+                "label": "Mário Heringer",
+                "value": "74158"
+            },
+            {
+                "label": "Mauro Benevides Filho",
+                "value": "204486"
+            },
+            {
+                "label": "Paulo Ramos",
+                "value": "133968"
+            },
+            {
+                "label": "Pedro Augusto Bezerra",
+                "value": "90201"
+            },
+            {
+                "label": "Pompeo de Mattos",
+                "value": "73486"
+            },
+            {
+                "label": "Ricardo da Karol",
+                "value": "215042"
+            },
+            {
+                "label": "Robério Monteiro",
+                "value": "204489"
+            },
+            {
+                "label": "Sergio Vidigal",
+                "value": "178874"
+            },
+            {
+                "label": "Totonho Lopes",
+                "value": "216545"
+            },
+            {
+                "label": "Wolney Queiroz",
+                "value": "74439"
+            }
+        ]
+    },
+    "PATRIOTA": {
+        "label": "PATRIOTA",
+        "options": [
+            {
+                "label": "Alcides Rodrigues",
+                "value": "204413"
+            },
+            {
+                "label": "Dr. Frederico",
+                "value": "204518"
+            },
+            {
+                "label": "Fred Costa",
+                "value": "204494"
+            },
+            {
+                "label": "Marreca Filho",
+                "value": "204566"
+            },
+            {
+                "label": "Professor Joziel",
+                "value": "204446"
+            }
+        ]
+    },
+    "REPUBLICANOS": {
+        "label": "REPUBLICANOS",
+        "options": [
+            {
+                "label": "Alê Silva",
+                "value": "204545"
+            },
+            {
+                "label": "Alex Santana",
+                "value": "204571"
+            },
+            {
+                "label": "Aline Gurgel",
+                "value": "204353"
+            },
+            {
+                "label": "Aluisio Mendes",
+                "value": "178881"
+            },
+            {
+                "label": "Amaro Neto",
+                "value": "204356"
+            },
+            {
+                "label": "Antônia Lúcia",
+                "value": "123756"
+            },
+            {
+                "label": "Aroldo Martins",
+                "value": "204414"
+            },
+            {
+                "label": "Augusto Coutinho",
+                "value": "160665"
+            },
+            {
+                "label": "Carlos Gomes",
+                "value": "178962"
+            },
+            {
+                "label": "Celso Russomanno",
+                "value": "73441"
+            },
+            {
+                "label": "Cleber Verde",
+                "value": "141408"
+            },
+            {
+                "label": "Deuzinho Filho",
+                "value": "213856"
+            },
+            {
+                "label": "Diego Garcia",
+                "value": "178929"
+            },
+            {
+                "label": "Dr. Gonçalo",
+                "value": "212625"
+            },
+            {
+                "label": "Dr. Leonardo",
+                "value": "204439"
+            },
+            {
+                "label": "Edna Henrique",
+                "value": "204421"
+            },
+            {
+                "label": "Ely Santos",
+                "value": "218086"
+            },
+            {
+                "label": "Gil Cutrim",
+                "value": "204575"
+            },
+            {
+                "label": "Gilberto Abramo",
+                "value": "204491"
+            },
+            {
+                "label": "Gustinho Ribeiro",
+                "value": "204408"
+            },
+            {
+                "label": "Henrique do Paraíso",
+                "value": "217036"
+            },
+            {
+                "label": "Herculano Passos",
+                "value": "178981"
+            },
+            {
+                "label": "Hugo Motta",
+                "value": "160674"
+            },
+            {
+                "label": "Jhonatan de Jesus",
+                "value": "160531"
+            },
+            {
+                "label": "João Campos",
+                "value": "74366"
+            },
+            {
+                "label": "Jorge Braz",
+                "value": "205550"
+            },
+            {
+                "label": "Julio Cesar Ribeiro",
+                "value": "204372"
+            },
+            {
+                "label": "Lafayette de Andrada",
+                "value": "98057"
+            },
+            {
+                "label": "Léo Motta",
+                "value": "204547"
+            },
+            {
+                "label": "Liziane Bayer",
+                "value": "204405"
+            },
+            {
+                "label": "Luis Miranda",
+                "value": "204381"
+            },
+            {
+                "label": "Manuel Marcos",
+                "value": "204469"
+            },
+            {
+                "label": "Marcelo Brum",
+                "value": "205863"
+            },
+            {
+                "label": "Marcelo Nilo",
+                "value": "204558"
+            },
+            {
+                "label": "Marcelo Squassoni",
+                "value": "118594"
+            },
+            {
+                "label": "Márcio Marinho",
+                "value": "150418"
+            },
+            {
+                "label": "Marcos Pereira",
+                "value": "204506"
+            },
+            {
+                "label": "Maria Rosas",
+                "value": "204540"
+            },
+            {
+                "label": "Mariana Carvalho",
+                "value": "178956"
+            },
+            {
+                "label": "Marina Santos",
+                "value": "204432"
+            },
+            {
+                "label": "Milton Vieira",
+                "value": "154178"
+            },
+            {
+                "label": "Nivaldo Albuquerque",
+                "value": "194260"
+            },
+            {
+                "label": "Ossesio Silva",
+                "value": "204422"
+            },
+            {
+                "label": "Ricardo Izar",
+                "value": "160655"
+            },
+            {
+                "label": "Roberto Alves",
+                "value": "152610"
+            },
+            {
+                "label": "Roberto de Lucena",
+                "value": "160653"
+            },
+            {
+                "label": "Ronaldo Martins",
+                "value": "122466"
+            },
+            {
+                "label": "Rosangela Gomes",
+                "value": "178945"
+            },
+            {
+                "label": "Silas Câmara",
+                "value": "74356"
+            },
+            {
+                "label": "Silvio Costa Filho",
+                "value": "204425"
+            },
+            {
+                "label": "Tia Eron",
+                "value": "178862"
+            },
+            {
+                "label": "Vavá Martins",
+                "value": "204505"
+            },
+            {
+                "label": "Vinicius Carvalho",
+                "value": "141555"
+            },
+            {
+                "label": "Wagner Montes",
+                "value": "204443"
+            },
+            {
+                "label": "Wilson Santiago",
+                "value": "74044"
+            }
+        ]
+    },
+    "PSB": {
+        "label": "PSB",
+        "options": [
+            {
+                "label": "Alessandro Molon",
+                "value": "160511"
+            },
+            {
+                "label": "Bira do Pindaré",
+                "value": "204561"
+            },
+            {
+                "label": "Camilo Capiberibe",
+                "value": "204352"
+            },
+            {
+                "label": "Cássio Andrade",
+                "value": "204499"
+            },
+            {
+                "label": "Danilo Cabral",
+                "value": "160528"
+            },
+            {
+                "label": "Denis Bezerra",
+                "value": "204542"
+            },
+            {
+                "label": "Elias Vaz",
+                "value": "204389"
+            },
+            {
+                "label": "Fabio Barros",
+                "value": "219920"
+            },
+            {
+                "label": "Felipe Carreras",
+                "value": "72442"
+            },
+            {
+                "label": "Gervásio Maia",
+                "value": "204394"
+            },
+            {
+                "label": "Gonzaga Patriota",
+                "value": "74419"
+            },
+            {
+                "label": "Heitor Schuch",
+                "value": "178964"
+            },
+            {
+                "label": "Jhc",
+                "value": "178842"
+            },
+            {
+                "label": "João H. Campos",
+                "value": "204429"
+            },
+            {
+                "label": "Lídice da Mata",
+                "value": "139285"
+            },
+            {
+                "label": "Luciano Ducci",
+                "value": "178931"
+            },
+            {
+                "label": "Luiz Flávio Gomes",
+                "value": "204543"
+            },
+            {
+                "label": "Marcelo Freixo",
+                "value": "76874"
+            },
+            {
+                "label": "Mauro Nazif",
+                "value": "141508"
+            },
+            {
+                "label": "Milton Coelho",
+                "value": "92172"
+            },
+            {
+                "label": "Odorico Monteiro",
+                "value": "178868"
+            },
+            {
+                "label": "Paulo Foletto",
+                "value": "160517"
+            },
+            {
+                "label": "Professor Israel Batista",
+                "value": "204383"
+            },
+            {
+                "label": "Rafael Motta",
+                "value": "178951"
+            },
+            {
+                "label": "Rodrigo Agostinho",
+                "value": "204530"
+            },
+            {
+                "label": "Severino Ninho",
+                "value": "167614"
+            },
+            {
+                "label": "Tabata Amaral",
+                "value": "204534"
+            },
+            {
+                "label": "Tadeu Alencar",
+                "value": "178922"
+            },
+            {
+                "label": "Ted Conti",
+                "value": "206231"
+            },
+            {
+                "label": "Tiago Andrino",
+                "value": "219568"
+            },
+            {
+                "label": "Vilson da Fetaemg",
+                "value": "204483"
+            }
+        ]
+    },
+    "CIDADANIA": {
+        "label": "CIDADANIA",
+        "options": [
+            {
+                "label": "Alex Manente",
+                "value": "178972"
+            },
+            {
+                "label": "Arnaldo Jardim",
+                "value": "141391"
+            },
+            {
+                "label": "Carmen Zanotto",
+                "value": "164360"
+            },
+            {
+                "label": "Daniel Coelho",
+                "value": "178916"
+            },
+            {
+                "label": "Fabiano Tolentino",
+                "value": "211866"
+            },
+            {
+                "label": "Joceval Rodrigues",
+                "value": "214865"
+            },
+            {
+                "label": "Paula Belmonte",
+                "value": "204377"
+            },
+            {
+                "label": "Rubens Bueno",
+                "value": "73466"
+            }
+        ]
+    },
+    "PSD": {
+        "label": "PSD",
+        "options": [
+            {
+                "label": "Alexandre Figueiredo",
+                "value": "105534"
+            },
+            {
+                "label": "Alexandre Serfiotis",
+                "value": "178833"
+            },
+            {
+                "label": "André de Paula",
+                "value": "74471"
+            },
+            {
+                "label": "Andreia Zito",
+                "value": "141379"
+            },
+            {
+                "label": "Antonio Brito",
+                "value": "160553"
+            },
+            {
+                "label": "Átila Lins",
+                "value": "74090"
+            },
+            {
+                "label": "Capitão Fábio Abreu",
+                "value": "178924"
+            },
+            {
+                "label": "Célio Studart",
+                "value": "204488"
+            },
+            {
+                "label": "Cezinha de Madureira",
+                "value": "204504"
+            },
+            {
+                "label": "Charles Fernandes",
+                "value": "205476"
+            },
+            {
+                "label": "Danrlei de Deus Hinterholz",
+                "value": "160552"
+            },
+            {
+                "label": "Darci de Matos",
+                "value": "116379"
+            },
+            {
+                "label": "Diego Andrade",
+                "value": "160588"
+            },
+            {
+                "label": "Domingos Neto",
+                "value": "143632"
+            },
+            {
+                "label": "Edilázio Júnior",
+                "value": "204562"
+            },
+            {
+                "label": "Eduardo Costa",
+                "value": "204500"
+            },
+            {
+                "label": "Eleuses Paiva",
+                "value": "154919"
+            },
+            {
+                "label": "Expedito Netto",
+                "value": "178953"
+            },
+            {
+                "label": "Fábio Mitidieri",
+                "value": "178969"
+            },
+            {
+                "label": "Fabio Reis",
+                "value": "171623"
+            },
+            {
+                "label": "Fábio Trad",
+                "value": "160587"
+            },
+            {
+                "label": "Flordelis",
+                "value": "204447"
+            },
+            {
+                "label": "Francisco Jr.",
+                "value": "204392"
+            },
+            {
+                "label": "Haroldo Cathedral",
+                "value": "204465"
+            },
+            {
+                "label": "Hélio Costa",
+                "value": "204373"
+            },
+            {
+                "label": "Hugo Leal",
+                "value": "141450"
+            },
+            {
+                "label": "Jones Moura",
+                "value": "217480"
+            },
+            {
+                "label": "José Nunes",
+                "value": "160619"
+            },
+            {
+                "label": "Josivaldo JP",
+                "value": "215043"
+            },
+            {
+                "label": "Júlio Cesar",
+                "value": "74317"
+            },
+            {
+                "label": "Júnior Ferrari",
+                "value": "204497"
+            },
+            {
+                "label": "Leandre",
+                "value": "178832"
+            },
+            {
+                "label": "Luisa Canziani",
+                "value": "204410"
+            },
+            {
+                "label": "Luiz Nishimori",
+                "value": "162332"
+            },
+            {
+                "label": "Marcelo Calero",
+                "value": "204433"
+            },
+            {
+                "label": "Marcelo Ramos",
+                "value": "204556"
+            },
+            {
+                "label": "Marco Bertaiolli",
+                "value": "204522"
+            },
+            {
+                "label": "Marcos Aurélio Sampaio",
+                "value": "204431"
+            },
+            {
+                "label": "Misael Varella",
+                "value": "178895"
+            },
+            {
+                "label": "Nereu Crispim",
+                "value": "204415"
+            },
+            {
+                "label": "Otto Alencar Filho",
+                "value": "204573"
+            },
+            {
+                "label": "Patrick Dorneles",
+                "value": "218741"
+            },
+            {
+                "label": "Paulo Magalhães",
+                "value": "74574"
+            },
+            {
+                "label": "Paulo Vicente Caleffi",
+                "value": "216544"
+            },
+            {
+                "label": "Pedro Paulo",
+                "value": "122158"
+            },
+            {
+                "label": "Reinhold Stephanes Junior",
+                "value": "205865"
+            },
+            {
+                "label": "Renato Santana",
+                "value": "211498"
+            },
+            {
+                "label": "Ricardo Guidi",
+                "value": "204362"
+            },
+            {
+                "label": "Ricardo Silva",
+                "value": "213274"
+            },
+            {
+                "label": "RRenato Queiroz",
+                "value": "214477"
+            },
+            {
+                "label": "Sandro Alex",
+                "value": "160621"
+            },
+            {
+                "label": "Sargento Fahur",
+                "value": "204387"
+            },
+            {
+                "label": "Sérgio Brito",
+                "value": "73808"
+            },
+            {
+                "label": "Sidney Leite",
+                "value": "204557"
+            },
+            {
+                "label": "Stefano Aguiar",
+                "value": "92776"
+            },
+            {
+                "label": "Subtenente Gonzaga",
+                "value": "177282"
+            },
+            {
+                "label": "Tereza Nelma",
+                "value": "204466"
+            },
+            {
+                "label": "Wladimir Garotinho",
+                "value": "204463"
+            }
+        ]
+    },
+    "PROS": {
+        "label": "PROS",
+        "options": [
+            {
+                "label": "Alexandre Frota",
+                "value": "204544"
+            },
+            {
+                "label": "Aline Sleutjes",
+                "value": "204400"
+            },
+            {
+                "label": "Boca Aberta",
+                "value": "204397"
+            },
+            {
+                "label": "Dr. João",
+                "value": "213679"
+            },
+            {
+                "label": "Dra. Vanda Milani",
+                "value": "204434"
+            },
+            {
+                "label": "Gastão Vieira",
+                "value": "74200"
+            },
+            {
+                "label": "Weliton Prado",
+                "value": "160518"
+            }
+        ]
+    },
+    "PCdoB": {
+        "label": "PCdoB",
+        "options": [
+            {
+                "label": "Alice Portugal",
+                "value": "74057"
+            },
+            {
+                "label": "CHICO LOPES",
+                "value": "141440"
+            },
+            {
+                "label": "Daniel Almeida",
+                "value": "74060"
+            },
+            {
+                "label": "Jandira Feghali",
+                "value": "74848"
+            },
+            {
+                "label": "Márcio Dória",
+                "value": "221183"
+            },
+            {
+                "label": "Márcio Jerry",
+                "value": "81055"
+            },
+            {
+                "label": "Orlando Silva",
+                "value": "178987"
+            },
+            {
+                "label": "Perpétua Almeida",
+                "value": "73943"
+            },
+            {
+                "label": "Professora Marcivania",
+                "value": "160641"
+            },
+            {
+                "label": "Renildo Calheiros",
+                "value": "73801"
+            }
+        ]
+    },
+    "PV": {
+        "label": "PV",
+        "options": [
+            {
+                "label": "Aliel Machado",
+                "value": "178927"
+            },
+            {
+                "label": "Bacelar",
+                "value": "69871"
+            },
+            {
+                "label": "Júlio Delgado",
+                "value": "73586"
+            },
+            {
+                "label": "Sergio Toledo",
+                "value": "204438"
+            },
+            {
+                "label": "Wolmer Araújo",
+                "value": "182146"
+            }
+        ]
+    },
+    "PL": {
+        "label": "PL",
+        "options": [
+            {
+                "label": "Altineu Côrtes",
+                "value": "178937"
+            },
+            {
+                "label": "André Ferreira",
+                "value": "204423"
+            },
+            {
+                "label": "Bia Kicis",
+                "value": "204374"
+            },
+            {
+                "label": "Bibo Nunes",
+                "value": "204388"
+            },
+            {
+                "label": "Bosco Costa",
+                "value": "74052"
+            },
+            {
+                "label": "Capitão Alberto Neto",
+                "value": "204572"
+            },
+            {
+                "label": "Capitão Augusto",
+                "value": "178829"
+            },
+            {
+                "label": "Carla Zambelli",
+                "value": "204507"
+            },
+            {
+                "label": "Carlos Jordy",
+                "value": "204460"
+            },
+            {
+                "label": "Caroline de Toni",
+                "value": "204369"
+            },
+            {
+                "label": "Chris Tonietto",
+                "value": "204462"
+            },
+            {
+                "label": "Coronel Armando",
+                "value": "204376"
+            },
+            {
+                "label": "Coronel Chrisóstomo",
+                "value": "204378"
+            },
+            {
+                "label": "Coronel Tadeu",
+                "value": "204514"
+            },
+            {
+                "label": "Daniel Freitas",
+                "value": "204367"
+            },
+            {
+                "label": "Delegado Éder Mauro",
+                "value": "178908"
+            },
+            {
+                "label": "Domingos Sávio",
+                "value": "160758"
+            },
+            {
+                "label": "Dr. Jaziel",
+                "value": "204481"
+            },
+            {
+                "label": "Edio Lopes",
+                "value": "141417"
+            },
+            {
+                "label": "Eduardo Bolsonaro",
+                "value": "92346"
+            },
+            {
+                "label": "Eli Borges",
+                "value": "204364"
+            },
+            {
+                "label": "Emidinho Madeira",
+                "value": "161550"
+            },
+            {
+                "label": "Eros Biondini",
+                "value": "160640"
+            },
+            {
+                "label": "Fernando Rodolfo",
+                "value": "204427"
+            },
+            {
+                "label": "Filipe Barros",
+                "value": "204411"
+            },
+            {
+                "label": "Flávia Arruda",
+                "value": "204354"
+            },
+            {
+                "label": "Gelson Azevedo",
+                "value": "115746"
+            },
+            {
+                "label": "Genecias Noronha",
+                "value": "160669"
+            },
+            {
+                "label": "General Girão",
+                "value": "204473"
+            },
+            {
+                "label": "Giacobo",
+                "value": "74383"
+            },
+            {
+                "label": "Giovani Cherini",
+                "value": "160673"
+            },
+            {
+                "label": "Gorete Pereira",
+                "value": "129618"
+            },
+            {
+                "label": "Guilherme Derrite",
+                "value": "204531"
+            },
+            {
+                "label": "Gurgel",
+                "value": "204442"
+            },
+            {
+                "label": "Helio Lopes",
+                "value": "204444"
+            },
+            {
+                "label": "Jefferson Campos",
+                "value": "74273"
+            },
+            {
+                "label": "João Carlos Bacelar",
+                "value": "141458"
+            },
+            {
+                "label": "João Maia",
+                "value": "141459"
+            },
+            {
+                "label": "João Roma",
+                "value": "204576"
+            },
+            {
+                "label": "Joaquim Passarinho",
+                "value": "178910"
+            },
+            {
+                "label": "Jorge Goetten",
+                "value": "214694"
+            },
+            {
+                "label": "Jorielson",
+                "value": "218245"
+            },
+            {
+                "label": "José Medeiros",
+                "value": "204472"
+            },
+            {
+                "label": "Josimar Maranhãozinho",
+                "value": "204563"
+            },
+            {
+                "label": "Junio Amaral",
+                "value": "204520"
+            },
+            {
+                "label": "Junior Lourenço",
+                "value": "204574"
+            },
+            {
+                "label": "Júnior Mano",
+                "value": "204550"
+            },
+            {
+                "label": "Laerte Bessa",
+                "value": "141478"
+            },
+            {
+                "label": "Lincoln Portela",
+                "value": "74585"
+            },
+            {
+                "label": "Loester Trutis",
+                "value": "204382"
+            },
+            {
+                "label": "Luiz Carlos Motta",
+                "value": "204485"
+            },
+            {
+                "label": "Luiz Lima",
+                "value": "204455"
+            },
+            {
+                "label": "Luiz Philippe de Orleans e Bragança",
+                "value": "204526"
+            },
+            {
+                "label": "Magda Mofatto",
+                "value": "166402"
+            },
+            {
+                "label": "Major Fabiana",
+                "value": "204458"
+            },
+            {
+                "label": "Major Vitor Hugo",
+                "value": "179587"
+            },
+            {
+                "label": "Marcão Gomes",
+                "value": "212749"
+            },
+            {
+                "label": "Marcelo Álvaro Antônio",
+                "value": "179000"
+            },
+            {
+                "label": "Marcelo Moraes",
+                "value": "133810"
+            },
+            {
+                "label": "Marcio Alvino",
+                "value": "178983"
+            },
+            {
+                "label": "Márcio Labre",
+                "value": "204452"
+            },
+            {
+                "label": "Marlon Santos",
+                "value": "204403"
+            },
+            {
+                "label": "Miguel Lombardi",
+                "value": "178985"
+            },
+            {
+                "label": "Nelson Barbudo",
+                "value": "204449"
+            },
+            {
+                "label": "Onyx Lorenzoni",
+                "value": "74399"
+            },
+            {
+                "label": "Pastor Eurico",
+                "value": "160642"
+            },
+            {
+                "label": "Pastor Gil",
+                "value": "204570"
+            },
+            {
+                "label": "Patricia Ferraz",
+                "value": "205535"
+            },
+            {
+                "label": "Paulo Eduardo Martins",
+                "value": "193726"
+            },
+            {
+                "label": "Paulo Freire Costa",
+                "value": "160558"
+            },
+            {
+                "label": "Paulo Marinho Jr",
+                "value": "128760"
+            },
+            {
+                "label": "Policial Katia Sastre",
+                "value": "204529"
+            },
+            {
+                "label": "Pr. Marco Feliciano",
+                "value": "160601"
+            },
+            {
+                "label": "Professor Alcides",
+                "value": "204390"
+            },
+            {
+                "label": "Rosana Valle",
+                "value": "204525"
+            },
+            {
+                "label": "Sanderson",
+                "value": "204416"
+            },
+            {
+                "label": "Silvia Cristina",
+                "value": "204360"
+            },
+            {
+                "label": "Soraya Santos",
+                "value": "178946"
+            },
+            {
+                "label": "Sóstenes Cavalcante",
+                "value": "178947"
+            },
+            {
+                "label": "Tiririca",
+                "value": "160976"
+            },
+            {
+                "label": "Valdevan Noventa",
+                "value": "204385"
+            },
+            {
+                "label": "Vermelho",
+                "value": "204396"
+            },
+            {
+                "label": "Vinicius Gurgel",
+                "value": "160591"
+            },
+            {
+                "label": "Wellington Roberto",
+                "value": "74043"
+            },
+            {
+                "label": "Zé Vitor",
+                "value": "204517"
+            }
+        ]
+    },
+    "AVANTE": {
+        "label": "AVANTE",
+        "options": [
+            {
+                "label": "André Janones",
+                "value": "204515"
+            },
+            {
+                "label": "Fernando Borja",
+                "value": "212504"
+            },
+            {
+                "label": "Greyce Elias",
+                "value": "198197"
+            },
+            {
+                "label": "Luis Tibé",
+                "value": "160510"
+            },
+            {
+                "label": "Pastor Sargento Isidório",
+                "value": "204553"
+            },
+            {
+                "label": "Sebastião Oliveira",
+                "value": "178921"
+            },
+            {
+                "label": "Tito",
+                "value": "197438"
+            }
+        ]
+    },
+    "PSOL": {
+        "label": "PSOL",
+        "options": [
+            {
+                "label": "Áurea Carolina",
+                "value": "204509"
+            },
+            {
+                "label": "Edmilson Rodrigues",
+                "value": "134812"
+            },
+            {
+                "label": "Fernanda Melchionna",
+                "value": "204407"
+            },
+            {
+                "label": "Glauber Braga",
+                "value": "152605"
+            },
+            {
+                "label": "Ivan Valente",
+                "value": "73531"
+            },
+            {
+                "label": "Jean Wyllys",
+                "value": "160672"
+            },
+            {
+                "label": "Luiza Erundina",
+                "value": "74784"
+            },
+            {
+                "label": "Sâmia Bomfim",
+                "value": "204535"
+            },
+            {
+                "label": "Talíria Petrone",
+                "value": "204464"
+            },
+            {
+                "label": "Vivi Reis",
+                "value": "215044"
+            }
+        ]
+    },
+    "SOLIDARIEDADE": {
+        "label": "SOLIDARIEDADE",
+        "options": [
+            {
+                "label": "Aureo Ribeiro",
+                "value": "160512"
+            },
+            {
+                "label": "Bosco Saraiva",
+                "value": "204551"
+            },
+            {
+                "label": "Lucas Vergilio",
+                "value": "178879"
+            },
+            {
+                "label": "Luizão Goulart",
+                "value": "204418"
+            },
+            {
+                "label": "Marília Arraes",
+                "value": "204428"
+            },
+            {
+                "label": "Ottaci Nascimento",
+                "value": "204475"
+            },
+            {
+                "label": "Paulinho da Força",
+                "value": "141518"
+            },
+            {
+                "label": "Simplício Araújo",
+                "value": "168175"
+            },
+            {
+                "label": "Zé Silva",
+                "value": "160632"
+            }
+        ]
+    },
+    "PTB": {
+        "label": "PTB",
+        "options": [
+            {
+                "label": "Daniel Silveira",
+                "value": "204454"
+            },
+            {
+                "label": "Dra. Soraya Manato",
+                "value": "81297"
+            },
+            {
+                "label": "Paulo Bengtson",
+                "value": "204538"
+            },
+            {
+                "label": "Santini",
+                "value": "90842"
+            },
+            {
+                "label": "Zeca Cavalcanti",
+                "value": "178923"
+            }
+        ]
+    },
+    "PODE": {
+        "label": "PODE",
+        "options": [
+            {
+                "label": "Dr. Sinval Malheiros",
+                "value": "178830"
+            },
+            {
+                "label": "Eduardo Braide",
+                "value": "204552"
+            },
+            {
+                "label": "Igor Timo",
+                "value": "204508"
+            },
+            {
+                "label": "Léo Moraes",
+                "value": "204359"
+            },
+            {
+                "label": "Marcos Pacco",
+                "value": "204011"
+            },
+            {
+                "label": "Maurício Dziedricki",
+                "value": "75431"
+            },
+            {
+                "label": "Raimundo Costa",
+                "value": "204567"
+            },
+            {
+                "label": "Renata Abreu",
+                "value": "178989"
+            },
+            {
+                "label": "Ricardo Teobaldo",
+                "value": "178920"
+            },
+            {
+                "label": "Rodrigo Coelho",
+                "value": "204366"
+            },
+            {
+                "label": "Sargento Alexandre",
+                "value": "219599"
+            },
+            {
+                "label": "Thiago Cartaxo",
+                "value": "180018"
+            },
+            {
+                "label": "Tiago Dimas",
+                "value": "143084"
+            }
+        ]
+    },
+    "REDE": {
+        "label": "REDE",
+        "options": [
+            {
+                "label": "Joenia Wapichana",
+                "value": "204468"
+            },
+            {
+                "label": "Túlio Gadêlha",
+                "value": "157130"
+            }
+        ]
+    }
+}
