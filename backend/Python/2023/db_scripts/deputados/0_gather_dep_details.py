@@ -5,7 +5,7 @@ import aiohttp
 import time
 import json
 
-with open('deputados_legis_57.json', 'r', encoding='utf-8-sig') as openfile:
+with open('input/deputados_legis_57.json', 'r', encoding='utf-8-sig') as openfile:
     deputies = json.load(openfile)
 
 
@@ -20,12 +20,16 @@ async def gather_with_concurrency(n, *tasks):
 
 
 async def get_async(input_data, session, results):
-      async with session.get(input_data) as response:
-        obj = await response.text()
-        deputy_detail = json.loads(obj)
+    try:
+        async with session.get(input_data) as response:
+            obj = await response.text()
+            deputy_detail = json.loads(obj)
 
-        if response.status == 200:
-            results.append(deputy_detail)
+            if response.status == 200:
+                results.append(deputy_detail)
+
+    except Exception:
+        print("url  " + input_data)
 
 
 async def main():
@@ -46,7 +50,7 @@ async def main():
     print(time_taken)
     await session.close()
 
-    with open("deputados_detalhes.json", "w", encoding='utf8') as outfile:
+    with open("output/deputados_detalhes.json", "w", encoding='utf8') as outfile:
         json.dump(results, outfile, indent=4, ensure_ascii=False)
 
 

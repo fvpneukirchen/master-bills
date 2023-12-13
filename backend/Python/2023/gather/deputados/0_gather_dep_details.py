@@ -5,7 +5,7 @@ import aiohttp
 import time
 import json
 
-with open('deputados_legis_57.json', 'r', encoding='utf-8-sig') as openfile:
+with open('deprecated_deputados_legis_57.json', 'r', encoding='utf-8-sig') as openfile:
     deputies = json.load(openfile)
 
 
