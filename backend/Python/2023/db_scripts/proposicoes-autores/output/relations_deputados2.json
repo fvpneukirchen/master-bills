@@ -1,0 +1,5 @@
+[
+    "MATCH (d:Deputies {id: 141422}), (p:Prepositions {id: 1198010}) CREATE (d)-[:AUTHORED {uri: 'https://dadosabertos.camara.leg.br/api/v2/deputados/141422', nome:  'Efraim Filho', codTipo:  '10000', tipo:  'Deputado', ordemAssinatura:  '1', proponente:  '1'}]->(p)",
+    "MATCH (d:Deputies {id: 133439}), (p:Prepositions {id: 2115253}) CREATE (d)-[:AUTHORED {uri: 'https://dadosabertos.camara.leg.br/api/v2/deputados/133439', nome:  'André Figueiredo', codTipo:  '10000', tipo:  'Deputado', ordemAssinatura:  '1', proponente:  '1'}]->(p)",
+    "MATCH (d:Deputies {id: 204567}), (p:Prepositions {id: 2345590}) CREATE (d)-[:AUTHORED {uri: 'https://dadosabertos.camara.leg.br/api/v2/deputados/204567', nome:  'Raimundo Costa', codTipo:  '10000', tipo:  'Deputado', ordemAssinatura:  '1', proponente:  '1'}]->(p)"
+]
