@@ -1,0 +1,1276 @@
+[
+    {
+        "dados": {
+            "id": 4,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+            "sigla": "MESA",
+            "nome": "Mesa Diretora da Câmara dos Deputados",
+            "apelido": "Mesa Diretora",
+            "codTipoOrgao": 1,
+            "tipoOrgao": "Comissão Diretora",
+            "nomePublicacao": "Mesa Diretora",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Sala de Reuniões do Espaço Cultural",
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 111,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/111",
+            "sigla": "CN",
+            "nome": "CONGRESSO NACIONAL",
+            "apelido": "CONGRESSO NACIONAL",
+            "codTipoOrgao": 81001,
+            "tipoOrgao": "Órgão do Congresso Nacional",
+            "nomePublicacao": "CN",
+            "nomeResumido": "Congresso Nacional",
+            "dataInicio": "2020-03-20T00:00",
+            "dataInstalacao": "2020-03-20T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Plenário da Câmara dos Deputados",
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/111"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 537236,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236",
+            "sigla": "CESPO",
+            "nome": "Comissão do Esporte",
+            "apelido": "Esporte",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão do Esporte",
+            "nomeResumido": "Esportes",
+            "dataInicio": "2014-02-19T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 04",
+            "urlWebsite": "https://www.camara.leg.br/CESPO"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 102594,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102594",
+            "sigla": "MPV114722",
+            "nome": "Comissão Mista da MPV 1147/2022",
+            "apelido": "MPV114722",
+            "codTipoOrgao": 9,
+            "tipoOrgao": "Comissão Medida Provisória",
+            "nomePublicacao": null,
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102594"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 102601,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102601",
+            "sigla": "MPV115423",
+            "nome": "Comissão Mista da MPV 1154/2023",
+            "apelido": "MPV115423",
+            "codTipoOrgao": 9,
+            "tipoOrgao": "Comissão Medida Provisória",
+            "nomePublicacao": null,
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102601"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 102615,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102615",
+            "sigla": "MPV116423",
+            "nome": "Comissão Mista da MPV 1164/2023",
+            "apelido": "MPV116423",
+            "codTipoOrgao": 9,
+            "tipoOrgao": "Comissão Medida Provisória",
+            "nomePublicacao": null,
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102615"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 102636,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102636",
+            "sigla": "MPV117023",
+            "nome": "Comissão Mista da MPV 1170/2023",
+            "apelido": "MPV117023",
+            "codTipoOrgao": 9,
+            "tipoOrgao": "Comissão Medida Provisória",
+            "nomePublicacao": null,
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102636"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 102638,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102638",
+            "sigla": "MPV117223",
+            "nome": "Comissão Mista da MPV 1172/2023",
+            "apelido": "MPV117223",
+            "codTipoOrgao": 9,
+            "tipoOrgao": "Comissão Medida Provisória",
+            "nomePublicacao": null,
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102638"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 102639,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102639",
+            "sigla": "MPV117323",
+            "nome": "Comissão Mista da MPV 1173/2023",
+            "apelido": "MPV117323",
+            "codTipoOrgao": 9,
+            "tipoOrgao": "Comissão Medida Provisória",
+            "nomePublicacao": null,
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102639"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 102642,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102642",
+            "sigla": "MPV117423",
+            "nome": "Comissão Mista da MPV 1174/2023",
+            "apelido": "MPV117423",
+            "codTipoOrgao": 9,
+            "tipoOrgao": "Comissão Medida Provisória",
+            "nomePublicacao": null,
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102642"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 102644,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102644",
+            "sigla": "MPV",
+            "nome": "Comissão Mista da MPV 1164/2023",
+            "apelido": "Comissão Mista da MPV",
+            "codTipoOrgao": 9,
+            "tipoOrgao": "Comissão Medida Provisória",
+            "nomePublicacao": "Comissão Mista da MPV",
+            "nomeResumido": "Comissão Mista da MPV",
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102644"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539384,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539384",
+            "sigla": "CPOVOS",
+            "nome": "Comissão da Amazônia e dos Povos Originários e Tradicionais",
+            "apelido": "Amazônia e dos Povos Originários e Tradicionais",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão da Amazônia e dos Povos Originários e Tradicionais",
+            "nomeResumido": "Amazônia",
+            "dataInicio": "2023-02-15T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": "https://www.camara.leg.br/CPOVOS"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539384"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 249,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/249",
+            "sigla": "PC",
+            "nome": "PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS",
+            "apelido": "PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS",
+            "codTipoOrgao": 12000,
+            "tipoOrgao": "Órgão da Câmara dos Deputados",
+            "nomePublicacao": "PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/249"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539385,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539385",
+            "sigla": "CCOM",
+            "nome": "Comissão de Comunicação",
+            "apelido": "Comunicação",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Comunicação",
+            "nomeResumido": "Comunicação",
+            "dataInicio": "2023-02-15T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": "https://www.camara.leg.br/CCOM"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539385"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539387,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539387",
+            "sigla": "CPASF",
+            "nome": "Comissão de Previdência, Assistência Social, Infância, Adolescência e Família",
+            "apelido": "Previdência, Assis. Social, Infância, Adolescência e Família",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Previdência, Assistência Social, Infância, Adolescência e Família",
+            "nomeResumido": "Previdência e Assistência",
+            "dataInicio": "2023-02-15T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": "https://www.camara.leg.br/CPASF"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539387"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539388,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539388",
+            "sigla": "CASP",
+            "nome": "Comissão de Administração e Serviço Público",
+            "apelido": "Administração e Serviço Público",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Administração e Serviço Público",
+            "nomeResumido": "Serviço Público",
+            "dataInicio": "2023-02-15T00:00",
+            "dataInstalacao": "2023-03-21T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": "https://www.camara.leg.br/CASP"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539388"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 537871,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871",
+            "sigla": "CIDOSO",
+            "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+            "apelido": "Defesa dos Direitos da Pessoa Idosa",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+            "nomeResumido": "Idosos",
+            "dataInicio": "2016-04-28T00:00",
+            "dataInstalacao": "2023-03-22T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 16",
+            "urlWebsite": "https://www.camara.leg.br/CIDOSO"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539407,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539407",
+            "sigla": "CEXMABRU",
+            "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",
+            "apelido": "Fiscalização dos Rompimentos de Barragens e Repactuação",
+            "codTipoOrgao": 5,
+            "tipoOrgao": "Comissão Externa",
+            "nomePublicacao": "Comissão Externa para fiscalização dos rompimentos de barragens e repactuação",
+            "nomeResumido": "Rompimentos de Barragens",
+            "dataInicio": "2023-02-14T00:00",
+            "dataInstalacao": "2023-02-14T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539407"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539409,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539409",
+            "sigla": "GTSTN",
+            "nome": "Grupo de Trabalho (GTSTN) destinado a analisar e debater a PEC n. 45/2019, que altera o Sistema Tributário Nacional e dá outras providências",
+            "apelido": "GT - Sistema Tributário Nacional (PEC 45/19)",
+            "codTipoOrgao": 10,
+            "tipoOrgao": "Grupo de Trabalho",
+            "nomePublicacao": "Grupo de Trabalho sobre o Sistema Tributário Nacional (PEC 45/19)",
+            "nomeResumido": "Sistema Tributário",
+            "dataInicio": "2023-02-15T00:00",
+            "dataInstalacao": "2023-02-15T00:00",
+            "dataFim": "2023-06-06T00:00",
+            "dataFimOriginal": "2023-06-06T00:00",
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539409"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539410,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539410",
+            "sigla": "CEOBSTET",
+            "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",
+            "apelido": "Violência Obstétrica e Morte Materna",
+            "codTipoOrgao": 3,
+            "tipoOrgao": "Comissão Especial",
+            "nomePublicacao": "Comissão Especial sobre Violência Obstétrica e Morte Materna",
+            "nomeResumido": "Violência Obstétrica",
+            "dataInicio": "2023-03-07T00:00",
+            "dataInstalacao": "2023-03-28T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539410"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539411,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539411",
+            "sigla": "CECANCER",
+            "nome": "Comissão Especial destinada a acompanhar as ações de combate ao câncer no Brasil",
+            "apelido": "Combate ao Câncer no Brasil",
+            "codTipoOrgao": 3,
+            "tipoOrgao": "Comissão Especial",
+            "nomePublicacao": "Comissão Especial sobre o Combate ao Câncer no Brasil",
+            "nomeResumido": "Câncer",
+            "dataInicio": "2023-03-07T00:00",
+            "dataInstalacao": "2023-04-25T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539411"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539413,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539413",
+            "sigla": "CEXOBRAS",
+            "nome": "Comissão Externa destinada a acompanhar e monitorar a conclusão das obras públicas paralisadas e inacabadas no país",
+            "apelido": "Obras Públicas Paralisadas e Inacabadas no País",
+            "codTipoOrgao": 5,
+            "tipoOrgao": "Comissão Externa",
+            "nomePublicacao": "Comissão Externa para acompanhar a conclusão das obras públicas paralisadas",
+            "nomeResumido": "Obras inacabadas",
+            "dataInicio": "2023-03-15T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539413"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539414,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539414",
+            "sigla": "CEXFPM",
+            "nome": "Comissão Externa destinada a verificar a situação dos municípios que perderam recursos financeiros do FPM, depois dos cálculos feitos pelo TCU, com base no Censo inacabado do IBGE",
+            "apelido": "Situação dos Municípios que Perderam Recursos do FPM",
+            "codTipoOrgao": 5,
+            "tipoOrgao": "Comissão Externa",
+            "nomePublicacao": "Comissão Externa sobre a situação dos municípios que perderam recursos do FPM",
+            "nomeResumido": "Municípios",
+            "dataInicio": "2023-08-10T00:00",
+            "dataInstalacao": "2023-08-10T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539414"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539419,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539419",
+            "sigla": "CEENERG",
+            "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",
+            "apelido": "Transição Energética e Produção de Hidrogênio Verde",
+            "codTipoOrgao": 3,
+            "tipoOrgao": "Comissão Especial",
+            "nomePublicacao": "Comissão Especial para estudo das iniciativas para a transição energética",
+            "nomeResumido": "Hidrogênio Verde",
+            "dataInicio": "2023-03-24T00:00",
+            "dataInstalacao": "2023-05-31T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539419"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539426,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539426",
+            "sigla": "CPIAMERI",
+            "nome": "Comissão Parlamentar de Inquérito destinada a investigar as inconsistências da ordem de 20 bilhões de reais detectadas em lançamentos contábeis da empresa Americanas S.A. realizados no exercício de 2022 e em exercícios anteriores",
+            "apelido": "CPI - Empresa Americanas S.A.",
+            "codTipoOrgao": 4,
+            "tipoOrgao": "Comissão Parlamentar de Inquérito",
+            "nomePublicacao": "CPI sobre a Empresa Americanas S.A.",
+            "nomeResumido": "Americanas S.A.",
+            "dataInicio": "2023-04-26T00:00",
+            "dataInstalacao": "2023-05-17T00:00",
+            "dataFim": "2023-09-26T00:00",
+            "dataFimOriginal": "2023-09-26T00:00",
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539426"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539429,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539429",
+            "sigla": "CPIFUTE",
+            "nome": "Comissão Parlamentar de Inquérito destinada a investigar esquemas de manipulação de resultados em partidas de futebol profissional no Brasil",
+            "apelido": "CPI - Manipulação de Resultado em Partidas de Futebol",
+            "codTipoOrgao": 4,
+            "tipoOrgao": "Comissão Parlamentar de Inquérito",
+            "nomePublicacao": "CPI sobre a Manipulação de Resultado em Partidas de Futebol",
+            "nomeResumido": "Apostas Futebol",
+            "dataInicio": "2023-04-26T00:00",
+            "dataInstalacao": "2023-05-17T00:00",
+            "dataFim": "2023-09-26T00:00",
+            "dataFimOriginal": "2023-09-26T00:00",
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539429"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539430,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539430",
+            "sigla": "CPIMST",
+            "nome": "Comissão Parlamentar de Inquérito destinada a investigar a atuação do grupo Movimento dos Trabalhadores Sem Terra (MST), do seu real propósito, assim como dos seus financiadores",
+            "apelido": "CPI - Movimento dos Trabalhadores sem Terra (MST)",
+            "codTipoOrgao": 4,
+            "tipoOrgao": "Comissão Parlamentar de Inquérito",
+            "nomePublicacao": "CPI sobre o Movimento dos Trabalhadores sem Terra (MST)",
+            "nomeResumido": "Trabalhadores Sem Terra",
+            "dataInicio": "2023-04-26T00:00",
+            "dataInstalacao": "2023-05-17T00:00",
+            "dataFim": "2023-09-26T00:00",
+            "dataFimOriginal": "2023-09-26T00:00",
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539430"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 5438,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5438",
+            "sigla": "CLP",
+            "nome": "Comissão de Legislação Participativa",
+            "apelido": "Legislação Participativa",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Legislação Participativa",
+            "nomeResumido": "Legislação Participativa",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 03",
+            "urlWebsite": "https://www.camara.leg.br/CLP"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5438"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539461,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539461",
+            "sigla": "CPIPIRAM",
+            "nome": "Comissão Parlamentar de Inquérito destinada a investigar indícios de operações fraudulentas sofisticadas na gestão de diversas empresas de serviços financeiros que prometem gerar patrimônio por meio de gestão de criptomoedas, com divulgação de informações falsas sobre projetos ou serviços e promessa de rentabilidade anormalmente alta ou garantida e inexistência de taxas, mas constituindo-se em sistema de remuneração alimentado pela entrada de novos participantes (o que tem trazido prejuízos vultosos aos investidores e a toda a sociedade, entre os anos de 2019 e 2022)",
+            "apelido": "CPI - Pirâmides Financeiras",
+            "codTipoOrgao": 4,
+            "tipoOrgao": "Comissão Parlamentar de Inquérito",
+            "nomePublicacao": "CPI sobre as Pirâmides Financeiras",
+            "nomeResumido": "Pirâmides Financeiras",
+            "dataInicio": "2023-05-17T00:00",
+            "dataInstalacao": "2023-06-13T00:00",
+            "dataFim": "2023-10-09T00:00",
+            "dataFimOriginal": "2023-10-09T00:00",
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539461"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 5971,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5971",
+            "sigla": "COETICA",
+            "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",
+            "apelido": "Conselho de Ética e Decoro Parlamentar",
+            "codTipoOrgao": 11,
+            "tipoOrgao": "Conselho",
+            "nomePublicacao": "Conselho de Ética e Decoro Parlamentar",
+            "nomeResumido": "Conselho de Ética",
+            "dataInicio": "2001-10-11T00:00",
+            "dataInstalacao": "2023-04-19T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5971"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 5467,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5467",
+            "sigla": "PRESI",
+            "nome": "Presidência da Câmara dos Deputados",
+            "apelido": "Presidência",
+            "codTipoOrgao": 1,
+            "tipoOrgao": "Comissão Diretora",
+            "nomePublicacao": "Presidência da Câmara dos Deputados",
+            "nomeResumido": "Presidência",
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5467"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 5503,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+            "sigla": "CSPCCO",
+            "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+            "apelido": "Segurança Pública e Combate ao Crime Organizado",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+            "nomeResumido": "Segurança Pública",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 06",
+            "urlWebsite": "https://www.camara.leg.br/CSPCCO"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 537480,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480",
+            "sigla": "CPD",
+            "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+            "apelido": "Defesa dos Direitos das Pessoas com Deficiência",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+            "nomeResumido": "Pessoas com Deficiência",
+            "dataInicio": "2015-02-26T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 13",
+            "urlWebsite": "https://www.camara.leg.br/CPD"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 536996,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996",
+            "sigla": "CCULT",
+            "nome": "Comissão de Cultura",
+            "apelido": "Cultura",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Cultura",
+            "nomeResumido": "Cultura",
+            "dataInicio": "2013-02-27T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 10",
+            "urlWebsite": "https://www.camara.leg.br/CCULT"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2001,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001",
+            "sigla": "CAPADR",
+            "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+            "apelido": "Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+            "nomeResumido": "Agropecuária",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 06",
+            "urlWebsite": "https://www.camara.leg.br/CAPADR"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2002,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002",
+            "sigla": "CCTI",
+            "nome": "Comissão de Ciência, Tecnologia e Inovação",
+            "apelido": "Ciência, Tecnologia e Inovação",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Ciência, Tecnologia e Inovação",
+            "nomeResumido": "Ciência e Tecnologia",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 13",
+            "urlWebsite": "https://www.camara.leg.br/CCTI"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2003,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+            "sigla": "CCJC",
+            "nome": "Comissão de Constituição e Justiça e de Cidadania",
+            "apelido": "Constituição e Justiça e de Cidadania",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Constituição e Justiça e de Cidadania",
+            "nomeResumido": "Constituição e Justiça",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 01",
+            "urlWebsite": "https://www.camara.leg.br/CCJC"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2004,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004",
+            "sigla": "CDC",
+            "nome": "Comissão de Defesa do Consumidor",
+            "apelido": "Defesa do Consumidor",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Defesa do Consumidor",
+            "nomeResumido": "Consumidor",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-22T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 08",
+            "urlWebsite": "https://www.camara.leg.br/CDC"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2006,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006",
+            "sigla": "CDU",
+            "nome": "Comissão de Desenvolvimento Urbano",
+            "apelido": "Desenvolvimento Urbano",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Desenvolvimento Urbano",
+            "nomeResumido": "Desenvolvimento Urbano",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 16",
+            "urlWebsite": "https://www.camara.leg.br/CDU"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2007,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007",
+            "sigla": "CDHMIR",
+            "nome": "Comissão de Direitos Humanos, Minorias e Igualdade Racial",
+            "apelido": "Direitos Humanos, Minorias e Igualdade Racial",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Direitos Humanos, Minorias e Igualdade Racial",
+            "nomeResumido": "Direitos Humanos",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 09",
+            "urlWebsite": "https://www.camara.leg.br/CDHMIR"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2009,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009",
+            "sigla": "CE",
+            "nome": "Comissão de Educação",
+            "apelido": "Educação",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Educação",
+            "nomeResumido": "Educação",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 10",
+            "urlWebsite": "https://www.camara.leg.br/CE"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2010,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+            "sigla": "CFT",
+            "nome": "Comissão de Finanças e Tributação",
+            "apelido": "Finanças e Tributação",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Finanças e Tributação",
+            "nomeResumido": "Finanças e Tributação",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 04",
+            "urlWebsite": "https://www.camara.leg.br/CFT"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2011,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2011",
+            "sigla": "CFFC",
+            "nome": "Comissão de Fiscalização Financeira e Controle",
+            "apelido": "Fiscalização Financeira e Controle",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Fiscalização Financeira e Controle",
+            "nomeResumido": "Fiscalização Financeira",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 09",
+            "urlWebsite": "https://www.camara.leg.br/CFFC"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2011"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2012,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012",
+            "sigla": "CME",
+            "nome": "Comissão de Minas e Energia",
+            "apelido": "Minas e Energia",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Minas e Energia",
+            "nomeResumido": "Minas e Energia",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 14",
+            "urlWebsite": "https://www.camara.leg.br/CME"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2014,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014",
+            "sigla": "CSAUDE",
+            "nome": "Comissão de Saúde",
+            "apelido": "Saúde",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Saúde",
+            "nomeResumido": "Saúde",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 07",
+            "urlWebsite": "https://www.camara.leg.br/CSAUDE"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2016,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016",
+            "sigla": "CVT",
+            "nome": "Comissão de Viação e Transportes",
+            "apelido": "Viação e Transportes",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Viação e Transportes",
+            "nomeResumido": "Viação e Transportes",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 11",
+            "urlWebsite": "https://www.camara.leg.br/CVT"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2015,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015",
+            "sigla": "CTRAB",
+            "nome": "Comissão de Trabalho",
+            "apelido": "Trabalho",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Trabalho",
+            "nomeResumido": "Trabalho",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 12",
+            "urlWebsite": "https://www.camara.leg.br/CTRAB"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2018,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018",
+            "sigla": "CREDN",
+            "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+            "apelido": "Relações Exteriores e de Defesa Nacional",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Relações Exteriores e de Defesa Nacional",
+            "nomeResumido": "Relações Exteriores",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 03",
+            "urlWebsite": "https://www.camara.leg.br/CREDN"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 2017,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017",
+            "sigla": "CINDRE",
+            "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
+            "apelido": "Integração Nacional e Desenvolvimento Regional",
+            "codTipoOrgao": 2,
+            "tipoOrgao": "Comissão Permanente",
+            "nomePublicacao": "Comissão de Integração Nacional e Desenvolvimento Regional",
+            "nomeResumido": "Integração Nacional",
+            "dataInicio": "2011-03-02T00:00",
+            "dataInstalacao": "2023-03-15T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Anexo II, Plenário 15",
+            "urlWebsite": "https://www.camara.leg.br/CINDRE"
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+            }
+        ]
+    }
+]
