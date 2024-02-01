@@ -17,31 +17,17 @@ class App:
         # Don't forget to close the driver connection when you are finished with it
         self.driver.close()
 
-    @staticmethod
-    def create_nodes_from_json(tx, json_data):
-        # Define your node creation query with UNWIND and SET
-        query = """
-        UNWIND $jsonList AS item
-        CREATE (n:Groups)
-        SET n = item
-        """
-        result = tx.run(query, jsonList=json_data)
-        return [row for row in result]
-
-
     def create_not_existent_deputies(self):
-        with open('output/detalhes_grupos_com_perm.json', 'r', encoding='utf-8-sig') as openfile:
-            groups = json.load(openfile)
+        # with open('output/relations_membros_grupos_com_perm.json', 'r', encoding='utf-8-sig') as openfile:
+        with open('output/relations_groups_restantes.json', 'r', encoding='utf-8-sig') as openfile:
+            deputies = json.load(openfile)
 
-        for group in groups:
-            print("Will create theme: {row}".format(row=group['dados']))
+        for command in deputies:
+            print("Will create command: {row}".format(row=command))
             with self.driver.session(database="neo4j") as session:
-                try:
-                    result = session.execute_write(self.create_nodes_from_json, group['dados'])
-                    for row in result:
-                        print("Created group: {row}".format(row=row))
-                except Exception:
-                    print("url  " + str(group))
+                result = session.run(command)
+                print("Created relation: " + command)
+
 
 if __name__ == "__main__":
     # Aura queries use an encrypted connection using the "neo4j+s" URI scheme

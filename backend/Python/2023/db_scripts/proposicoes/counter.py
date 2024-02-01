@@ -9,7 +9,7 @@ def contar_ocorrencias_por_sigla_tipo(lista_de_objetos):
 
     for objeto in lista_de_objetos:
         for item in objeto["dados"]:
-            sigla_tipo = item["codTipo"]
+            sigla_tipo = item["siglaTipo"]
             contagem[sigla_tipo] = contagem.get(sigla_tipo, 0) + 1
 
     return contagem

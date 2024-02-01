@@ -31,7 +31,8 @@ class App:
 
     def create_not_existent_deputies(self):
         # with open('output/detalhes_grupos.json', 'r', encoding='utf-8-sig') as openfile:
-        with open('output/detalhes_grupos_com_perm.json', 'r', encoding='utf-8-sig') as openfile:
+        # with open('output/detalhes_grupos_com_perm.json', 'r', encoding='utf-8-sig') as openfile:
+        with open('output/detalhes_grupos_que_faltaram.json', 'r', encoding='utf-8-sig') as openfile:
             groups = json.load(openfile)
 
         for group in groups:

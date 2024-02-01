@@ -1,0 +1,496 @@
+[
+    {
+        "dados": {
+            "id": 100044,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100044",
+            "sigla": "SGM",
+            "nome": "Secretário Geral da Mesa - SGM",
+            "apelido": "SGM",
+            "codTipoOrgao": 12000,
+            "tipoOrgao": "Órgão da Câmara dos Deputados",
+            "nomePublicacao": "SGM",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100044"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 100272,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100272",
+            "sigla": "SERAU(SGM)",
+            "nome": "Serviço de Registro e Controle de Matérias Deliberadas e de Autógrafos",
+            "apelido": "SERAU(SGM)",
+            "codTipoOrgao": 12000,
+            "tipoOrgao": "Órgão da Câmara dos Deputados",
+            "nomePublicacao": "SERAU(SGM)",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100272"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 100046,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100046",
+            "sigla": "CEDI",
+            "nome": "Centro de Documentação e Informação",
+            "apelido": "CeDI",
+            "codTipoOrgao": 12000,
+            "tipoOrgao": "Órgão da Câmara dos Deputados",
+            "nomePublicacao": "CeDI",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100046"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 100001,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100001",
+            "sigla": "SECAP(SGM)",
+            "nome": "Seção de Registro e Controle de Análise da Proposição/SGM",
+            "apelido": "SECAP(SGM)",
+            "codTipoOrgao": 12000,
+            "tipoOrgao": "Órgão da Câmara dos Deputados",
+            "nomePublicacao": "SECAP(SGM)",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100001"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539572,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539572",
+            "sigla": "PEC00923",
+            "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 9, de 2023, do Sr. Paulo Magalhães e outros, que \"altera a Emenda Constitucional nº 117, de 5 de abril de 2022, quanto à aplicação de sanções aos partidos que não preencheram a cota mínima de recursos ou que não destinaram os valores mínimos em razão de sexo e raça em eleições, bem como nas prestações de contas anuais e eleitorais\"",
+            "apelido": "PEC 9/23 - Cota Mínima de Recursos dos Partidos",
+            "codTipoOrgao": 3,
+            "tipoOrgao": "Comissão Especial",
+            "nomePublicacao": "Comissão Especial sobre a Cota Mínima de Recursos dos Partidos (PEC 009/23)",
+            "nomeResumido": "Recursos dos Partidos",
+            "dataInicio": "2023-06-13T00:00",
+            "dataInstalacao": "2023-08-02T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539572"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 102599,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102599",
+            "sigla": "MPV115222",
+            "nome": "Comissão Mista da MPV 1152/2022",
+            "apelido": "MPV115222",
+            "codTipoOrgao": 9,
+            "tipoOrgao": "Comissão Medida Provisória",
+            "nomePublicacao": null,
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/102599"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 100303,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100303",
+            "sigla": "SEXPE(SGM)",
+            "nome": "Seção de Expediente de Proposições",
+            "apelido": "SEXPE(SGM)",
+            "codTipoOrgao": 12000,
+            "tipoOrgao": "Órgão da Câmara dos Deputados",
+            "nomePublicacao": "SEXPE(SGM)",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100303"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 6855,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6855",
+            "sigla": "CMO",
+            "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "apelido": "Comissão Mista de Orçamento",
+            "codTipoOrgao": 6,
+            "tipoOrgao": "Comissão Mista Permanente",
+            "nomePublicacao": "Comissão Mista de Orçamento",
+            "nomeResumido": "Orçamento",
+            "dataInicio": "2013-03-26T00:00",
+            "dataInstalacao": null,
+            "dataFim": "2015-01-31T00:00",
+            "dataFimOriginal": "2015-01-31T00:00",
+            "casa": "",
+            "sala": "Anexo II, Plenário 02",
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6855"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 100047,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100047",
+            "sigla": "COAPS(SGM)",
+            "nome": "Coordenação de Apoio Administrativo - SGM",
+            "apelido": "COAPS(SGM)",
+            "codTipoOrgao": 12000,
+            "tipoOrgao": "Órgão da Câmara dos Deputados",
+            "nomePublicacao": "COAPS(SGM)",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100047"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 100002,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100002",
+            "sigla": "COAPP(SGM)",
+            "nome": "Coordenação de Apoio ao Plenário - SGM",
+            "apelido": "COAPP(SGM)",
+            "codTipoOrgao": 12000,
+            "tipoOrgao": "Órgão da Câmara dos Deputados",
+            "nomePublicacao": "COAPP(SGM)",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100002"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 5470,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5470",
+            "sigla": "1SECM",
+            "nome": "Primeira Secretaria",
+            "apelido": "1ª Secretaria",
+            "codTipoOrgao": 1,
+            "tipoOrgao": "Comissão Diretora",
+            "nomePublicacao": "1ª Secretaria da Câmara dos Deputados",
+            "nomeResumido": "1ª Secretaria",
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5470"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 100061,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100061",
+            "sigla": "NAJUR(SGM)",
+            "nome": "Núcleo de Assessoramento Jurídico/SGM",
+            "apelido": "NAJUR(SGM)",
+            "codTipoOrgao": 12000,
+            "tipoOrgao": "Órgão da Câmara dos Deputados",
+            "nomePublicacao": "NAJUR(SGM)",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100061"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 100229,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100229",
+            "sigla": "SEPRO(SGM)",
+            "nome": "Serviço de Protocolo de Documentos Legislativos e Administrativos",
+            "apelido": "SEPRO(SGM)",
+            "codTipoOrgao": 12000,
+            "tipoOrgao": "Órgão da Câmara dos Deputados",
+            "nomePublicacao": "SEPRO(SGM)",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100229"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 100050,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100050",
+            "sigla": "SEAUT(SGM)",
+            "nome": "Seção de Autógrafos",
+            "apelido": "SEAUT(SGM)",
+            "codTipoOrgao": 12000,
+            "tipoOrgao": "Órgão da Câmara dos Deputados",
+            "nomePublicacao": "SEAUT(SGM)",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100050"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 100293,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100293",
+            "sigla": "ARQUIVO",
+            "nome": "CeDI - Coordenação de Arquivo da Câmara dos Deputados",
+            "apelido": "ARQUIVO",
+            "codTipoOrgao": 12000,
+            "tipoOrgao": "Órgão da Câmara dos Deputados",
+            "nomePublicacao": "ARQUIVO",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100293"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 539638,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539638",
+            "sigla": "PEC00523",
+            "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",
+            "apelido": "PEC 5/23 - Imunidade Tributária",
+            "codTipoOrgao": 3,
+            "tipoOrgao": "Comissão Especial",
+            "nomePublicacao": "Comissão Especial da Imunidade Tributária (PEC005/23)",
+            "nomeResumido": "Imunidade Tributária",
+            "dataInicio": "2023-11-07T00:00",
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539638"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 180,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+            "sigla": "PLEN",
+            "nome": "Plenário",
+            "apelido": "Plenário",
+            "codTipoOrgao": 26,
+            "tipoOrgao": "Plenário Virtual",
+            "nomePublicacao": "Plenário",
+            "nomeResumido": "Plenário",
+            "dataInicio": "2020-03-20T00:00",
+            "dataInstalacao": "2020-03-20T00:00",
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": "Plenário da Câmara dos Deputados",
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 100648,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100648",
+            "sigla": "COMPI(SGM)",
+            "nome": "Coordenação de Registro de Comissões e Movimentação Parlamentar - SGM",
+            "apelido": "COMPI(SGM)",
+            "codTipoOrgao": 12000,
+            "tipoOrgao": "Órgão da Câmara dos Deputados",
+            "nomePublicacao": "COMPI(SGM)",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100648"
+            }
+        ]
+    },
+    {
+        "dados": {
+            "id": 186,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+            "sigla": "CCP",
+            "nome": "COORDENAÇÃO DE COMISSÕES PERMANENTES",
+            "apelido": "COORDENAÇÃO DE COMISSÕES PERMANENTES",
+            "codTipoOrgao": 12000,
+            "tipoOrgao": "Órgão da Câmara dos Deputados",
+            "nomePublicacao": "COORDENAÇÃO DE COMISSÕES PERMANENTES",
+            "nomeResumido": null,
+            "dataInicio": null,
+            "dataInstalacao": null,
+            "dataFim": null,
+            "dataFimOriginal": null,
+            "casa": "",
+            "sala": null,
+            "urlWebsite": null
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186"
+            }
+        ]
+    }
+]

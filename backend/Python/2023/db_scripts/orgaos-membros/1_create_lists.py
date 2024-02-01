@@ -2,7 +2,8 @@ import json
 import os
 
 # Define the input data
-with open('output/detalhes_membros_grupos_com_perm.json', 'r', encoding='utf-8-sig') as openfile:
+# with open('output/detalhes_membros_grupos_com_perm.json', 'r', encoding='utf-8-sig') as openfile:
+with open('output/grupos_restantes.json', 'r', encoding='utf-8-sig') as openfile:
     input_data = json.load(openfile)
 
 # Generate the queries
@@ -29,5 +30,6 @@ for group in input_data:
         )
         queries.append(query)
 
-with open("output/relations_membros_grupos_com_perm.json", "w", encoding='utf8') as outfile:
+# with open("output/relations_membros_grupos_com_perm.json", "w", encoding='utf8') as outfile:
+with open("output/relations_groups_restantes.json", "w", encoding='utf8') as outfile:
     json.dump(queries, outfile, indent=4, ensure_ascii=False)

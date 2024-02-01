@@ -6,7 +6,8 @@ import time
 import json
 
 # with open('input/lista_unica_grupos.json', 'r', encoding='utf-8-sig') as openfile:
-with open('input/lista_com_permanentes.json', 'r', encoding='utf-8-sig') as openfile:
+# with open('input/lista_com_permanentes.json', 'r', encoding='utf-8-sig') as openfile:
+with open('input/grupos_que_faltaram.json', 'r', encoding='utf-8-sig') as openfile:
     grupos = json.load(openfile)
 
 
@@ -51,7 +52,8 @@ async def main():
     print(time_taken)
     await session.close()
 
-    with open("output/detalhes_grupos_com_perm.json", "w", encoding='utf8') as outfile:
+    # with open("output/detalhes_grupos_com_perm.json", "w", encoding='utf8') as outfile:
+    with open("output/detalhes_grupos_que_faltaram.json", "w", encoding='utf8') as outfile:
         json.dump(results, outfile, indent=4, ensure_ascii=False)
 
 
