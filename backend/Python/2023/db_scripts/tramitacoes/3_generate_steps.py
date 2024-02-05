@@ -23,9 +23,12 @@ class App:
     def create_relation(self, command):
         with self.driver.session(database="neo4j") as session:
             result = session.run(command)
+            for row in result:
+                print("Created relation for: {row}".format(row=row))
+
 
     def create_relations(self):
-        with open('output/relations/output_queries_7.json', 'r', encoding='utf-8-sig') as openfile:
+        with open('output/relations/output_queries_1.json', 'r', encoding='utf-8-sig') as openfile:
             deputies = json.load(openfile)
         #
         # for command in deputies:

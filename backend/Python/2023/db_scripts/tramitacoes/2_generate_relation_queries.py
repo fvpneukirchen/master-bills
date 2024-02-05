@@ -12,52 +12,73 @@ max_entries_per_file = 10000  # Adjust as needed based on memory constraints
 with open('output/results.json', 'r', encoding='utf-16') as file:
     results = json.load(file)
 
-# def generate_data_entry_str(data_entry):
-#     # Start the data entry string
-#     data_entry_str = "{"
-#     # Iterate over the items in the dictionary
-#     for key, value in data_entry.items():
-#         # For each item, add "key: value" to the string
-#         if value is not None:
-#             if isinstance(value, str):  # Check if the value is a string
-#                 value_str = "'" + value.replace("'", "\\'").replace('"', '\\"') + "'"
-#             else:
-#                 value_str = str(value)  # Convert non-string values to string without quotes
-#             data_entry_str += f"{key}: {value_str}, "
-#     # Remove the last comma and space, and close the curly brace
-#     data_entry_str = data_entry_str.rstrip(", ") + "}"
-#     return data_entry_str
-# def generate_query(preposition_id, group_id, data_entry):
-#     data_entry_str = generate_data_entry_str(data_entry)
-#     return f'MATCH (p:Prepositions {{id: {preposition_id}}}), (g:Groups {{id: {group_id}}}) CREATE (p)-[:HAS_STEP {data_entry_str}]->(g)'
-
-def generate_query(preposition_id, group_id, data_entry):
-    # Create the base query
-    query = (
-        f"MATCH (p:Prepositions {{id: {preposition_id}}}), "
-        f" (g:Groups {{id: {group_id}}})"
-        f" OPTIONAL MATCH (p)-[h:HAS_STEP {{sequencia: {data_entry.get('sequencia', 'null')}}}]->(g)"
-        f" MERGE (p)-[r:HAS_STEP]->(g)"
-        f" ON CREATE SET "
-    )
-
-    # Generate the 'ON CREATE SET' clauses
-    set_clauses = []
+def generate_data_entry_str(data_entry):
+    # Start the data entry string
+    data_entry_str = "{"
+    # Iterate over the items in the dictionary
     for key, value in data_entry.items():
-        # Skip 'sequencia' as it is already used in OPTIONAL MATCH
+        # For each item, add "key: value" to the string
         if value is not None:
-            if isinstance(value, str):
-                # Escape single quotes and wrap the value in single quotes
+            if isinstance(value, str):  # Check if the value is a string
                 value_str = "'" + value.replace("'", "\\'").replace('"', '\\"') + "'"
             else:
-                value_str = str(value)
-            set_clauses.append(f"r.{key} = {value_str}")
+                value_str = str(value)  # Convert non-string values to string without quotes
+            data_entry_str += f"{key}: {value_str}, "
+    # Remove the last comma and space, and close the curly brace
+    data_entry_str = data_entry_str.rstrip(", ") + "}"
+    return data_entry_str
 
-    # Join the set clauses and append to the query
-    query += ", ".join(set_clauses)
-    query += " RETURN p.id, r.sequencia, g.id"
+def generate_query(preposition_id, group_id, data_entry):
+    data_entry_str = generate_data_entry_str(data_entry)
+    return f'MATCH (p:Prepositions {{id: {preposition_id}}}), (g:Groups {{id: {group_id}}}) CREATE (p)-[:HAS_STEP{file_counter} {data_entry_str}]->(g)'
 
-    return query
+# def generate_query(preposition_id, group_id, data_entry):
+#     # Create the base query
+#     query = (
+#         f"MATCH (p:Prepositions {{id: {preposition_id}}}), "
+#         f" (g:Groups {{id: {group_id}}})"
+#         f" OPTIONAL MATCH (p)-[h:HAS_STEP {{sequencia: {data_entry.get('sequencia', 'null')}}}]->(g)"
+#         f" MERGE (p)-[r:HAS_STEP]->(g)"
+#         f" ON CREATE SET "
+#     )
+#
+#     # Generate the 'ON CREATE SET' clauses
+#     set_clauses = []
+#     for key, value in data_entry.items():
+#         # Skip 'sequencia' as it is already used in OPTIONAL MATCH
+#         if value is not None:
+#             if isinstance(value, str):
+#                 # Escape single quotes and wrap the value in single quotes
+#                 value_str = "'" + value.replace("'", "\\'").replace('"', '\\"') + "'"
+#             else:
+#                 value_str = str(value)
+#             set_clauses.append(f"r.{key} = {value_str}")
+#
+#     # Join the set clauses and append to the query
+#     query += ", ".join(set_clauses)
+#     query += " RETURN p.id, r.sequencia, g.id"
+#
+#     return query
+
+# def generate_query(preposition_id, group_id, data_entry):
+#     # Create the base query
+#     query = (
+#         f"MATCH (p:Prepositions {{id: {preposition_id}}}), "
+#         f"(g:Groups {{id: {group_id}}})"
+#         f" CALL apoc.do.when("
+#         # Condition: No HAS_STEP relationship with the same sequencia exists
+#         f"    NOT EXISTS((p)-[:HAS_STEP {{sequencia: {data_entry.get('sequencia', 'null')}}}]->(g)),"
+#         # Action if condition is true: Create new HAS_STEP relationship with properties
+#         f"    CREATE (p)-[r:HAS_STEP]->(g) SET r += $properties RETURN r,"
+#         # Action if condition is false: Just match the existing relationship
+#         f"    MATCH (p)-[r:HAS_STEP {{sequencia: {data_entry.get('sequencia', 'null')}}}]->(g) RETURN r,"
+#         # Parameters
+#         f"    {{p:p, g:g, properties: {generate_data_entry_str(data_entry)}}}"
+#         f") YIELD value"
+#         f" RETURN p.id, value.r.sequencia, g.id"
+#     )
+#
+#     return query
 
 # output_acumm = []
 #
