@@ -4,7 +4,8 @@ import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Read the id_list from a JSON file
-with open('input/prep_list.json', 'r', encoding='utf-8-sig') as file:
+# with open('input/prep_list.json', 'r', encoding='utf-8-sig') as file:
+with open('output/fails.json', 'r', encoding='utf-8-sig') as file:
     id_list = json.load(file)
 
 # Define the base URL
@@ -46,8 +47,8 @@ with ThreadPoolExecutor(max_workers=number_of_workers) as executor:
     print(time_taken)
 
 # Optionally, save the results to a file
-with open('output/results.json', 'w', encoding='utf8') as f:
+with open('output/results2.json', 'w', encoding='utf8') as f:
     json.dump(results, f, indent=4, ensure_ascii=False)
 
-with open('output/fails.json', 'w', encoding='utf8') as f:
+with open('output/fails2.json', 'w', encoding='utf8') as f:
     json.dump(fails, f, indent=4, ensure_ascii=False)
