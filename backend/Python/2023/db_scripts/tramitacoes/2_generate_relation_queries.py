@@ -7,9 +7,9 @@ base_url = "https://dadosabertos.camara.leg.br/api/v2/orgaos/"
 file_counter = 1
 entry_counter = 0
 entry_counter_2 = 0
-max_entries_per_file = 10000  # Adjust as needed based on memory constraints
+max_entries_per_file = 5000  # Adjust as needed based on memory constraints
 
-with open('output/results.json', 'r', encoding='utf-16') as file:
+with open('output/unique_results.json', 'r', encoding='utf-8') as file:
     results = json.load(file)
 
 def generate_data_entry_str(data_entry):
@@ -28,81 +28,22 @@ def generate_data_entry_str(data_entry):
     data_entry_str = data_entry_str.rstrip(", ") + "}"
     return data_entry_str
 
-def generate_query(preposition_id, group_id, data_entry):
+#def generate_query(preposition_id, group_id, data_entry):
+#    data_entry_str = generate_data_entry_str(data_entry)
+#    return f'MATCH (p:Prepositions {{id: {preposition_id}}}), (g:Groups {{id: {group_id}}}) CREATE (p)-[:HAS_STEP{file_counter} {data_entry_str}]->(g)'
+
+def generate_queries(preposition_id, group_id, data_entry):
     data_entry_str = generate_data_entry_str(data_entry)
-    return f'MATCH (p:Prepositions {{id: {preposition_id}}}), (g:Groups {{id: {group_id}}}) CREATE (p)-[:HAS_STEP{file_counter} {data_entry_str}]->(g)'
-
-# def generate_query(preposition_id, group_id, data_entry):
-#     # Create the base query
-#     query = (
-#         f"MATCH (p:Prepositions {{id: {preposition_id}}}), "
-#         f" (g:Groups {{id: {group_id}}})"
-#         f" OPTIONAL MATCH (p)-[h:HAS_STEP {{sequencia: {data_entry.get('sequencia', 'null')}}}]->(g)"
-#         f" MERGE (p)-[r:HAS_STEP]->(g)"
-#         f" ON CREATE SET "
-#     )
-#
-#     # Generate the 'ON CREATE SET' clauses
-#     set_clauses = []
-#     for key, value in data_entry.items():
-#         # Skip 'sequencia' as it is already used in OPTIONAL MATCH
-#         if value is not None:
-#             if isinstance(value, str):
-#                 # Escape single quotes and wrap the value in single quotes
-#                 value_str = "'" + value.replace("'", "\\'").replace('"', '\\"') + "'"
-#             else:
-#                 value_str = str(value)
-#             set_clauses.append(f"r.{key} = {value_str}")
-#
-#     # Join the set clauses and append to the query
-#     query += ", ".join(set_clauses)
-#     query += " RETURN p.id, r.sequencia, g.id"
-#
-#     return query
-
-# def generate_query(preposition_id, group_id, data_entry):
-#     # Create the base query
-#     query = (
-#         f"MATCH (p:Prepositions {{id: {preposition_id}}}), "
-#         f"(g:Groups {{id: {group_id}}})"
-#         f" CALL apoc.do.when("
-#         # Condition: No HAS_STEP relationship with the same sequencia exists
-#         f"    NOT EXISTS((p)-[:HAS_STEP {{sequencia: {data_entry.get('sequencia', 'null')}}}]->(g)),"
-#         # Action if condition is true: Create new HAS_STEP relationship with properties
-#         f"    CREATE (p)-[r:HAS_STEP]->(g) SET r += $properties RETURN r,"
-#         # Action if condition is false: Just match the existing relationship
-#         f"    MATCH (p)-[r:HAS_STEP {{sequencia: {data_entry.get('sequencia', 'null')}}}]->(g) RETURN r,"
-#         # Parameters
-#         f"    {{p:p, g:g, properties: {generate_data_entry_str(data_entry)}}}"
-#         f") YIELD value"
-#         f" RETURN p.id, value.r.sequencia, g.id"
-#     )
-#
-#     return query
-
-# output_acumm = []
-#
-# # Process each element in the JSON array
-# for obj in results:
-#     # Open a new output file if the entry counter has reached the max entries per file
-#     if entry_counter % max_entries_per_file == 0 and entry_counter > 0:
-#         entry_counter = 0
-#         with open(f'output/relations/output_queries_{file_counter}.json', 'w', encoding='utf8') as outfile:
-#             json.dump(output_acumm, outfile, indent=4, ensure_ascii=False)
-#         outfile.close()
-#         output_acumm = []
-#         file_counter += 1
-#
-#     if obj is not None:
-#         # Process the data entries
-#         preposition_id = obj["id"]
-#         for data_entry in obj["data"]:
-#             group_id = data_entry["uriOrgao"].replace(base_url, "")
-#             output_acumm.append(generate_query(preposition_id, group_id, data_entry))
-#             entry_counter += 1
-#             entry_counter_2 += 1
-#
-# print(f"Processed {entry_counter_2} entries in {file_counter - 1} files.")
+    check_query = (
+        f"MATCH (p:Prepositions {{id: {preposition_id}}}), (g:Groups {{id: {group_id}}}) "
+        f"OPTIONAL MATCH (p)-[r:HAS_STEP {{sequencia: {data_entry['sequencia']}}}]->(g) "
+        f"RETURN r IS NOT NULL AS relationshipExists"
+    )
+    create_query = (
+        f"MATCH (p:Prepositions {{id: {preposition_id}}}), (g:Groups {{id: {group_id}}}) "
+        f"CREATE (p)-[:HAS_STEP{file_counter} {data_entry_str}]->(g)"
+    )
+    return check_query, create_query
 
 output_acumm = []
 
@@ -121,7 +62,7 @@ for obj in results:
                 file_counter += 1  # Increment file_counter to create a new file
 
             group_id = data_entry["uriOrgao"].replace(base_url, "")
-            output_acumm.append(generate_query(preposition_id, group_id, data_entry))
+            output_acumm.append(generate_queries(preposition_id, group_id, data_entry))
             entry_counter += 1
             entry_counter_2 += 1
 
