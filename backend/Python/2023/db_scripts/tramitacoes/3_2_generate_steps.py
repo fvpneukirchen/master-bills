@@ -4,7 +4,7 @@ import time
 
 from neo4j import GraphDatabase
 
-max_workers = 5
+max_workers = 2
 
 
 class App:

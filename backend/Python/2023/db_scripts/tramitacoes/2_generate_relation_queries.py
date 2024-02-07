@@ -7,7 +7,7 @@ base_url = "https://dadosabertos.camara.leg.br/api/v2/orgaos/"
 file_counter = 1
 entry_counter = 0
 entry_counter_2 = 0
-max_entries_per_file = 5000  # Adjust as needed based on memory constraints
+max_entries_per_file = 50000  # Adjust as needed based on memory constraints
 
 with open('output/unique_results.json', 'r', encoding='utf-8') as file:
     results = json.load(file)
@@ -36,7 +36,7 @@ def generate_queries(preposition_id, group_id, data_entry):
     data_entry_str = generate_data_entry_str(data_entry)
     check_query = (
         f"MATCH (p:Prepositions {{id: {preposition_id}}}), (g:Groups {{id: {group_id}}}) "
-        f"OPTIONAL MATCH (p)-[r:HAS_STEP {{sequencia: {data_entry['sequencia']}}}]->(g) "
+        f"OPTIONAL MATCH (p)-[r:HAS_STEP{file_counter} {{sequencia: {data_entry['sequencia']}}}]->(g) "
         f"RETURN r IS NOT NULL AS relationshipExists"
     )
     create_query = (
