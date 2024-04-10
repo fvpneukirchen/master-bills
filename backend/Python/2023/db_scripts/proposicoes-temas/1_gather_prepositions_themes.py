@@ -1,11 +1,10 @@
-# coding: utf8
-
 import asyncio
 import aiohttp
 import time
 import json
 
-with open('output/lista_preposicoes_temas_urls.json', 'r', encoding='utf-8-sig') as openfile:
+# Load URLs from the JSON file
+with open('output/lista_preposicoes_temas_urls_2.json', 'r', encoding='utf-8-sig') as openfile:
     urls = json.load(openfile)
 
 
@@ -19,39 +18,52 @@ async def gather_with_concurrency(n, *tasks):
     return await asyncio.gather(*(sem_task(task) for task in tasks))
 
 
-async def get_async(input_data, session, results):
-    print("calling " + input_data)
-    try:
-        async with session.get(input_data) as response:
-            obj = await response.text()
-            prep_details = json.loads(obj)
+async def get_async(input_data, session, results, max_retries=3, delay=2):
+    retries = 0
+    while retries <= max_retries:
+        try:
+            len_r = len(results["200"])
+            print(f"Calling: {len_r}")
+            async with session.get(input_data) as response:
+                if response.status == 200:
+                    obj = await response.text()
+                    prep_details = json.loads(obj)
+                    del prep_details['links']
+                    prep_details_data = prep_details['dados']
+                    results["200"].append({
+                        "url": input_data,
+                        "data": prep_details_data
+                    })
+                    break  # Success, exit retry loop
+                else:
+                    print(f"Retry {retries + 1}/{max_retries} for URL: {input_data} due to status {response.status}")
+        except Exception as e:
+            print(f"Exception for URL {input_data}: {str(e)} -- retry {retries + 1}/{max_retries}")
+            retries += 1
+            await asyncio.sleep(delay)  # Delay before next retry
 
-            del prep_details['links']
-            prep_details_data = prep_details['dados']
-
-            if response.status == 200:
-                results.append({
-                    "url": input_data,
-                    "data": prep_details_data})
-
-    except Exception:
-        print("Exception --> url  " + input_data)
+    if retries > max_retries:
+        print(f"Failed to process {input_data} after {max_retries} retries.")
+        results["500"].append(input_data)
 
 
 async def main():
     conn = aiohttp.TCPConnector(limit=1, ttl_dns_cache=300, ssl=False)
     session = aiohttp.ClientSession(connector=conn, headers={"Content-Type": "application/json"})
-    results = []
+    results = {
+        "200": [],
+        "500": []
+    }
 
     conc_req = 50
     now = time.time()
-    await gather_with_concurrency(conc_req, *[get_async(i, session, results) for i in urls])
+    await gather_with_concurrency(conc_req, *[get_async(i, session, results, max_retries=3, delay=2) for i in urls])
     time_taken = time.time() - now
 
-    print(time_taken)
+    print(f"Total time taken: {time_taken} seconds")
     await session.close()
 
-    with open("output/preposicoes_temas_detalhes.json", "w", encoding='utf8') as outfile:
+    with open("output/preposicoes_temas_detalhes_2.json", "w", encoding='utf8') as outfile:
         json.dump(results, outfile, indent=4, ensure_ascii=False)
 
 

@@ -5,13 +5,13 @@ import aiohttp
 import time
 import json
 
-with open('output/preposicoes_temas_detalhes.json', 'r', encoding='utf-8-sig') as openfile:
+with open('output/preposicoes_temas_detalhes_2.json', 'r', encoding='utf-8-sig') as openfile:
     preps = json.load(openfile)
 
 
 async def main():
     preps_themes = []
-    for a in preps:
+    for a in preps["200"]:
         if a['data'] != None and a['data'] != '' and a['data'] != []:
             prep = (a['url']
                     .replace("https://dadosabertos.camara.leg.br/api/v2/proposicoes/", "")
@@ -22,7 +22,7 @@ async def main():
                 relevancia = theme['relevancia']
                 print(prep, theme, codTema, tema, relevancia, a['url'])
                 match = ('MATCH (d:Prepositions {0}{1}{2}), (p:Themes {3}{4}{5}) '
-                         'CREATE (d)'
+                         'MERGE (d)'
                          '-[:HAS_THEME '
                          '{6}url: \'{7}\', '
                          'codTema:  \'{8}\', '
@@ -35,7 +35,7 @@ async def main():
                                          "{", a['url'], codTema, tema, relevancia, "}")
                 preps_themes.append(match)
 
-    with open("output/relations_preps_themes.json", "w", encoding='utf8') as outfile:
+    with open("output/relations_preps_themes_2.json", "w", encoding='utf8') as outfile:
         json.dump(preps_themes, outfile, indent=4, ensure_ascii=False)
 
 

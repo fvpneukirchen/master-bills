@@ -1,0 +1,385 @@
+C:\Users\Theo\AppData\Local\Programs\Python\Python311\python.exe C:\Users\Theo\viriato\master-bills\backend\Python\2023\db_scripts\tramitacoes\4_generate_steps_sync.py 
+C:\Users\Theo\viriato\master-bills\backend\Python\2023\db_scripts\tramitacoes\4_generate_steps_sync.py:21: DeprecationWarning: Using a driver after it has been closed is deprecated. Future versions of the driver will raise an error.
+  with self.driver.session(database="neo4j") as session:
+Failed to read from defunct connection IPv4Address(('b9d9f1f9.databases.neo4j.io', 7687)) (ResolvedIPv4Address(('34.69.128.95', 7687)))
+Failed to read from defunct connection ResolvedIPv4Address(('34.69.128.95', 7687)) (ResolvedIPv4Address(('34.69.128.95', 7687)))
+Unable to retrieve routing information
+Exception occurred: Failed to read from defunct connection IPv4Address(('b9d9f1f9.databases.neo4j.io', 7687)) (ResolvedIPv4Address(('34.69.128.95', 7687))) - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 537236}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 48}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 537236}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 49}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 537236}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 50}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 537236}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 51}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 537236}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 52}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 537236}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 53}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 537236}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 54}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 537236}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 55}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 58}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 60}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 59}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 61}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 62}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 63}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 65}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268830}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 64}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268833}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268833}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 9}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268833}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268833}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 15}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268833}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 16}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268833}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 17}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268833}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 18}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268833}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 19}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268833}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 20}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268833}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 21}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268833}), (g:Groups {id: 180}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 22}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268833}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 23}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268833}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 24}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268833}), (g:Groups {id: 539387}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 30}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268851}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268851}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 9}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268851}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268851}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 15}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268851}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 16}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268851}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 17}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268851}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 18}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268851}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 19}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268851}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 20}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268851}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 22}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268851}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 23}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268851}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 24}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2359751}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2359751}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 7}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2359751}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 13}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2359751}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268828}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268828}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 9}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268828}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268828}), (g:Groups {id: 537480}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 15}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268828}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 18}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268828}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 19}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2268828}), (g:Groups {id: 180}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 20}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2353793}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2353793}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 7}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2353793}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 10}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2353793}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 16}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Failed to read from defunct connection IPv4Address(('b9d9f1f9.databases.neo4j.io', 7687)) (ResolvedIPv4Address(('34.69.128.95', 7687)))
+Exception occurred: Failed to read from defunct connection IPv4Address(('b9d9f1f9.databases.neo4j.io', 7687)) (ResolvedIPv4Address(('34.69.128.95', 7687))) - MATCH (p:Prepositions {id: 2360367}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 27}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360367}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 29}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Failed to read from defunct connection ResolvedIPv4Address(('34.69.128.95', 7687)) (ResolvedIPv4Address(('34.69.128.95', 7687)))
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360367}), (g:Groups {id: 2010}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 28}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360367}), (g:Groups {id: 180}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 30}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360367}), (g:Groups {id: 180}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 32}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360367}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 33}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361326}), (g:Groups {id: 180}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361326}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 7}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361326}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 15}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361326}), (g:Groups {id: 2014}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 13}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361326}), (g:Groups {id: 180}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 17}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361326}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 18}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361382}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361382}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 7}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361382}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361382}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 13}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361382}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 15}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361382}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 16}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361382}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 17}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361382}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 18}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361382}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 19}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361382}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 20}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361416}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361416}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 7}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361416}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 13}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361416}), (g:Groups {id: 2016}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362045}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362045}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 8}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362045}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 17}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362045}), (g:Groups {id: 537236}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362045}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 18}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362045}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 20}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362045}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 22}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360478}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360478}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 7}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360478}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 13}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362002}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362002}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 8}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362002}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 15}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362002}), (g:Groups {id: 2009}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361413}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361413}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 7}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361413}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361413}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 13}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361413}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 15}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361413}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 16}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361413}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 17}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361413}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 18}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361413}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 19}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361413}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 20}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361385}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361385}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 7}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361385}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 16}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361385}), (g:Groups {id: 5503}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 13}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361327}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Failed to read from defunct connection IPv4Address(('b9d9f1f9.databases.neo4j.io', 7687)) (ResolvedIPv4Address(('34.69.128.95', 7687))) - MATCH (p:Prepositions {id: 2362846}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 17}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Failed to read from defunct connection IPv4Address(('b9d9f1f9.databases.neo4j.io', 7687)) (ResolvedIPv4Address(('34.69.128.95', 7687)))
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Failed to read from defunct connection ResolvedIPv4Address(('34.69.128.95', 7687)) (ResolvedIPv4Address(('34.69.128.95', 7687)))
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 13}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 7}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 15}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 16}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 17}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 19}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 18}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 536996}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 20}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 23}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 24}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 25}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 26}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 27}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 28}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 29}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 31}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 30}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 33}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 34}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 35}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 36}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 41}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 40}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 42}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 43}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 44}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 45}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 48}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 49}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 50}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 51}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 55}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 56}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 57}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 58}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362842}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 60}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362881}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362881}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 7}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362881}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 13}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362881}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362881}), (g:Groups {id: 2003}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 16}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362880}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362880}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 7}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362880}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 13}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362880}), (g:Groups {id: 2016}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362880}), (g:Groups {id: 2016}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 15}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362880}), (g:Groups {id: 2016}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 16}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362880}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 17}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361411}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361411}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 7}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361411}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 13}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361411}), (g:Groups {id: 539388}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361411}), (g:Groups {id: 539388}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 15}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361411}), (g:Groups {id: 539388}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 16}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361411}), (g:Groups {id: 539388}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 17}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2361411}), (g:Groups {id: 539388}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 18}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360381}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360381}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 7}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360381}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360381}), (g:Groups {id: 2001}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 13}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360381}), (g:Groups {id: 2001}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 15}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360381}), (g:Groups {id: 2001}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 16}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360381}), (g:Groups {id: 2001}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 17}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360381}), (g:Groups {id: 2001}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 19}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2360381}), (g:Groups {id: 2001}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 18}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362887}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 1}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362887}), (g:Groups {id: 4}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 7}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362887}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 13}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362887}), (g:Groups {id: 2004}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 14}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362887}), (g:Groups {id: 2004}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 15}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362887}), (g:Groups {id: 2004}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 16}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362887}), (g:Groups {id: 2004}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 17}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Unable to retrieve routing information
+Exception occurred: Unable to retrieve routing information - MATCH (p:Prepositions {id: 2362887}), (g:Groups {id: 2004}) OPTIONAL MATCH (p)-[r:HAS_STEP2 {sequencia: 19}]->(g) RETURN r IS NOT NULL AS relationshipExists
+Time taken: 21194.160308122635
+
+Process finished with exit code 0
