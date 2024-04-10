@@ -9,7 +9,7 @@ entry_counter = 0
 entry_counter_2 = 0
 max_entries_per_file = 50000  # Adjust as needed based on memory constraints
 
-with open('output/unique_results.json', 'r', encoding='utf-8') as file:
+with open('output/unique_results_2.json', 'r', encoding='utf-8') as file:
     results = json.load(file)
 
 def generate_data_entry_str(data_entry):
@@ -55,7 +55,7 @@ for obj in results:
         for data_entry in obj["data"]:
             # Check if we need to write the current batch to a file and start a new batch
             if entry_counter >= max_entries_per_file:
-                with open(f'output/relations/output_queries_{file_counter}.json', 'w', encoding='utf8') as outfile:
+                with open(f'output/relations/output_queries_2_{file_counter}.json', 'w', encoding='utf8') as outfile:
                     json.dump(output_acumm, outfile, indent=4, ensure_ascii=False)
                 entry_counter = 0  # Reset entry_counter for the new file
                 output_acumm = []  # Reset output_acumm for the new file
@@ -68,7 +68,7 @@ for obj in results:
 
 # Write the final batch of data to a file if there's any data left
 if output_acumm:
-    with open(f'output/relations/output_queries_{file_counter}.json', 'w', encoding='utf8') as outfile:
+    with open(f'output/relations/output_queries_2_{file_counter}.json', 'w', encoding='utf8') as outfile:
         json.dump(output_acumm, outfile, indent=4, ensure_ascii=False)
 
 print(f"Processed {entry_counter_2} entries in {file_counter} files.")

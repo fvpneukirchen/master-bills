@@ -5,7 +5,7 @@ import aiohttp
 import time
 import json
 
-with open('output/split_autores_grupos_filtrados_codTipo.json', 'r', encoding='utf-8-sig') as openfile:
+with open('output/split_preposicoes_autores_grupos_2.json', 'r', encoding='utf-8-sig') as openfile:
     autores = json.load(openfile)
 
 
@@ -25,10 +25,10 @@ async def main():
             proponente = a['autor']['proponente']
             print(prep, author, uri, nome, codTipo, tipo, ordemAssinatura, proponente)
             match = ('MATCH (d:Groups {0}{1}{2}), (p:Prepositions {3}{4}{5}) '
-                     'CREATE (d)'
+                     'MERGE (d)'
                      '-[:AUTHORED '
                      '{6}uri: \'{7}\', '
-                     'nome:  \'{8}\', '
+                     'nome:  \"{8}\", '
                      'codTipo:  \'{9}\', '
                      'tipo:  \'{10}\', '
                      'ordemAssinatura:  \'{11}\', '
@@ -42,7 +42,7 @@ async def main():
                                      proponente, prep, author,"}")
             deps.append(match)
 
-    with open("output/relations_groups_que_nao_existem_na_API.json", "w", encoding='utf8') as outfile:
+    with open("output/relations_groups_2.json", "w", encoding='utf8') as outfile:
         json.dump(deps, outfile, indent=4, ensure_ascii=False)
 
 

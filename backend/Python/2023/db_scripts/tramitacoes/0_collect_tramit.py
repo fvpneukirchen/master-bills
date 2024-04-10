@@ -5,8 +5,9 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Read the id_list from a JSON file
 # with open('input/prep_list.json', 'r', encoding='utf-8-sig') as file:
-with open('output/fails.json', 'r', encoding='utf-8-sig') as file:
-    id_list = json.load(file)
+#with open('output/fails.json', 'r', encoding='utf-8-sig') as file:
+with open('../proposicoes/output/preposicoes_detalhes_limpos_2.json', 'r', encoding='utf-8-sig') as file:
+    preps = json.load(file)
 
 # Define the base URL
 base_url = "https://dadosabertos.camara.leg.br/api/v2/proposicoes/{}/tramitacoes"
@@ -24,7 +25,7 @@ def fetch_data(id):
 
 
 # Define the number of workers for ThreadPoolExecutor
-number_of_workers = 30  # Adjust this number based on your machine's capabilities
+number_of_workers = 50  # Adjust this number based on your machine's capabilities
 
 results = []
 fails = []
@@ -32,7 +33,7 @@ fails = []
 with ThreadPoolExecutor(max_workers=number_of_workers) as executor:
     # Initiate all the tasks and mark them for execution
     now = time.time()
-    future_to_id = {executor.submit(fetch_data, id): id for id in id_list}
+    future_to_id = {executor.submit(fetch_data, p["id"]): p for p in preps["200"]}
 
     # As the tasks complete, process the results
     for future in as_completed(future_to_id):
@@ -42,13 +43,14 @@ with ThreadPoolExecutor(max_workers=number_of_workers) as executor:
             results.append(data)
         except Exception as e:
             print(f"ID {id} generated an exception: {e}")
+            fails.append(id)
 
     time_taken = time.time() - now
     print(time_taken)
 
 # Optionally, save the results to a file
-with open('output/results2.json', 'w', encoding='utf8') as f:
+with open('output/results3.json', 'w', encoding='utf8') as f:
     json.dump(results, f, indent=4, ensure_ascii=False)
 
-with open('output/fails2.json', 'w', encoding='utf8') as f:
+with open('output/fails3.json', 'w', encoding='utf8') as f:
     json.dump(fails, f, indent=4, ensure_ascii=False)

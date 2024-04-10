@@ -30,10 +30,11 @@ class App:
 
 
     def create_not_existent_deputies(self):
-        with open('output/preposicoes_detalhes_limpos.json', 'r', encoding='utf-8-sig') as openfile:
+        with open('output/preposicoes_detalhes_limpos_2.json', 'r', encoding='utf-8-sig') as openfile:
             prepositions = json.load(openfile)
 
-        for preposition in prepositions:
+        for preposition in prepositions["200"]:
+            del preposition['statusProposicao']
             print("Will create preposicoes: {row}".format(row=preposition))
             with self.driver.session(database="neo4j") as session:
                 result = session.execute_write(self.create_nodes_from_json, preposition)
