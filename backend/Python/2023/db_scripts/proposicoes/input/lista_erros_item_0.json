@@ -1,0 +1,17 @@
+[
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=275&itens=100",
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=347&itens=100",
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=350&itens=100",
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=368&itens=100",
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=371&itens=100",
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=398&itens=100",
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=400&itens=100",
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=410&itens=100",
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=412&itens=100",
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=418&itens=100",
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=431&itens=100",
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=451&itens=100",
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=488&itens=100",
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=498&itens=100",
+        "https://dadosabertos.camara.leg.br/api/v2/proposicoes?dataInicio=2023-02-01&dataFim=2023-12-31&ordem=ASC&ordenarPor=id&pagina=524&itens=100"
+    ]

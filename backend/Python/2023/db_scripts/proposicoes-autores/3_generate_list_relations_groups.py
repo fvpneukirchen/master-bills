@@ -5,7 +5,7 @@ import aiohttp
 import time
 import json
 
-with open('output/split_preposicoes_autores_grupos.json', 'r', encoding='utf-8-sig') as openfile:
+with open('output/split_autores_grupos_filtrados_codTipo.json', 'r', encoding='utf-8-sig') as openfile:
     autores = json.load(openfile)
 
 
@@ -42,7 +42,7 @@ async def main():
                                      proponente, prep, author,"}")
             deps.append(match)
 
-    with open("output/relations_groups.json", "w", encoding='utf8') as outfile:
+    with open("output/relations_groups_que_nao_existem_na_API.json", "w", encoding='utf8') as outfile:
         json.dump(deps, outfile, indent=4, ensure_ascii=False)
 
 
