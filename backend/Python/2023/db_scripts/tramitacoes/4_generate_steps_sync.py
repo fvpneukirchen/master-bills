@@ -34,7 +34,7 @@ class App:
     def create_relations(self):
         # 1 2
         # Exception occurred: Failed to read from defunct connection IPv4Address(('b9d9f1f9.databases.neo4j.io', 7687)) (ResolvedIPv4Address(('34.69.128.95', 7687))) - MATCH (p:Prepositions {id: 2406583}), (g:Groups {id: 186}) OPTIONAL MATCH (p)-[r:HAS_STEP3 {sequencia: 13}]->(g) RETURN r IS NOT NULL AS relationshipExists
-        with open('output/relations/output_queries_3.json', 'r', encoding='utf-8-sig') as openfile:
+        with open('output/relations/output_queries_2_1.json', 'r', encoding='utf-8-sig') as openfile:
             query_pairs = json.load(openfile)
 
         now = time.time()
@@ -53,7 +53,7 @@ if __name__ == "__main__":
     # Aura queries use an encrypted connection using the "neo4j+s" URI scheme
     uri = "neo4j+ssc://b9d9f1f9.databases.neo4j.io"
     user = "neo4j"
-    password = "ZNJJl1cee3r3W0txq8NqfQHO5hxrePXvigMDXt9Bzyc"
+    password = ""
     app = App(uri, user, password)
     # app.
     app.create_relations()

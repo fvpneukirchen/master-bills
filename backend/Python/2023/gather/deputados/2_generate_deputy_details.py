@@ -44,7 +44,7 @@ if __name__ == "__main__":
     # Aura queries use an encrypted connection using the "neo4j+s" URI scheme
     uri = "neo4j+ssc://f0707973.databases.neo4j.io"
     user = "neo4j"
-    password = "5cezIlPvs2x9Rc_EY7r9U1ZN_-p9nZRxH2cpftK1YrQ"
+    password = ""
     app = App(uri, user, password)
     # app.
     app.create_not_existent_deputies()

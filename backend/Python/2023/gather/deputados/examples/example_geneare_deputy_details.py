@@ -104,7 +104,7 @@ if __name__ == "__main__":
     # Aura queries use an encrypted connection using the "neo4j+s" URI scheme
     uri = "neo4j+s://32a0b9ea.databases.neo4j.io"
     user = "neo4j"
-    password = "vn1ci786q1eB_ZFdtwgEphSAon8x5G0803oYVnHkHC4"
+    password = ""
     app = App(uri, user, password)
     # app.find_person("204397")
     # app.check_existent_deputies()

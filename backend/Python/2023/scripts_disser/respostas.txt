@@ -1,0 +1,14 @@
+Agree	Disagree	Agree	Disagree	Agree	Strongly Disagree	Disagree	Disagree	Agree	Strongly Disagree
+Neutral	Neutral	Strongly Agree	Disagree	Disagree	Agree	Strongly Agree	Strongly Disagree	Agree	Neutral
+Strongly Disagree	Strongly Disagree	Strongly Disagree	Strongly Agree	Neutral	Agree	Strongly Disagree	Strongly Agree	Disagree	Disagree
+Disagree	Agree	Strongly Disagree	Neutral	Strongly Disagree	Neutral	Strongly Disagree	Agree	Strongly Disagree	Disagree
+Strongly Agree	Strongly Disagree	Agree	Strongly Disagree	Agree	Strongly Disagree	Strongly Agree	Disagree	Neutral	Strongly Disagree
+Agree	Disagree	Agree	Agree	Agree	Strongly Disagree	Strongly Agree	Strongly Disagree	Strongly Agree	Strongly Disagree
+Agree	Neutral	Disagree	Neutral	Neutral	Disagree	Strongly Disagree	Agree	Disagree	Neutral
+Agree	Disagree	Agree	Disagree	Agree	Strongly Disagree	Strongly Agree	Strongly Disagree	Strongly Agree	Strongly Disagree
+Neutral	Disagree	Agree	Strongly Disagree	Agree	Disagree	Agree	Disagree	Neutral	Agree
+Strongly Disagree	Agree	Strongly Disagree	Strongly Agree	Strongly Disagree	Strongly Disagree	Neutral	Agree	Strongly Disagree	Disagree
+Neutral	Strongly Disagree	Neutral	Neutral	Strongly Agree	Disagree	Strongly Agree	Strongly Disagree	Strongly Agree	Strongly Disagree
+Disagree	Disagree	Disagree	Agree	Agree	Disagree	Strongly Disagree	Neutral	Neutral	Strongly Disagree
+Agree	Strongly Disagree	Strongly Agree	Strongly Disagree	Strongly Agree	Strongly Disagree	Strongly Agree	Strongly Disagree	Agree	Disagree
+Neutral	Neutral	Disagree	Neutral	Agree	Agree	Agree	Neutral	Neutral	Strongly Disagree
